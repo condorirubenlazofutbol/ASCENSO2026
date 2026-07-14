@@ -1,11 +1,11 @@
 {
-  "name": "CEA Sist Informaticos",
-  "short_name": "CEA Sist Informaticos",
+  "name": "Ascenso 2026 - EduConnect",
+  "short_name": "Ascenso 2026",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "rgb(12, 141, 8)",
+  "background_color": "#1a1f2c",
+  "theme_color": "#1a1f2c",
   "icons": [
     {
       "src": "instalar/icon-192.png",
