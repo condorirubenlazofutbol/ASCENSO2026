@@ -713,3 +713,8 @@ body {
         flex-direction: column;
     }
 }
+
+/* Justify text globally for questions and answers */
+.question-text, .answer-text {
+    text-align: justify;
+}
