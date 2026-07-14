@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco de Preguntas - Ascenso 2026</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-graduation-cap logo-icon"></i>
+                <h2>Ascenso 2026</h2>
+                <p>Banco de Preguntas</p>
+            </div>
+            <div class="sidebar-search">
+                <div class="search-box">
+                    <i class="fa-solid fa-search"></i>
+                    <input type="number" id="jump-to-input" placeholder="Ir a # (Ej: 1500)">
+                    <button id="jump-btn">Ir</button>
+                </div>
+            </div>
+            <div class="sidebar-menu" id="blocks-menu">
+                <!-- Blocks will be injected here -->
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-nav">
+                <button id="mobile-menu-btn" class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+                <div class="header-info">
+                    <h1 id="current-block-title">Preguntas 1 - 60</h1>
+                    <span class="badge" id="total-count-badge">Cargando...</span>
+                </div>
+                <div class="header-actions">
+                    <button id="toggle-theme" class="theme-btn" title="Cambiar Tema">
+                        <i class="fa-solid fa-sun"></i>
+                    </button>
+                </div>
+            </header>
+
+            <div class="flashcards-container" id="flashcards-container">
+                <!-- Flashcards will be injected here -->
+            </div>
+
+            <!-- Pagination or loading info -->
+            <footer class="footer-info">
+                <p>Diseñado para un aprendizaje rápido y eficiente.</p>
+            </footer>
+        </main>
+    </div>
+
+    <!-- Data and App scripts -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
