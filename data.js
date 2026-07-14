@@ -1,6 +1,6 @@
 const window_data = [
   {
-    "q": "Banco de Preguntas del Ministerio de Educación RESPONDIDO – Trabajado por el prof . Ivan ¿Quién fue el primer científico en proponer la plasticidad en la fuerza y el número de las conexiones neuronales como base del aprendizaje y la memoria?",
+    "q": "¿Quién fue el primer científico en proponer la plasticidad en la fuerza y el número de las conexiones neuronales como base del aprendizaje y la memoria?",
     "a": "Santiago Ramón y Cajal."
   },
   {
