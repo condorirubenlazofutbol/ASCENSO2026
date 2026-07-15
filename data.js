@@ -12,7 +12,7 @@ const window_data = [
         "a": "La atención voluntaria."
     },
     {
-        "q": "Según la definición de estilo de aprendizaje como conjunto de elementos exteriores que nfluyen en el contexto de la situación de aprendizaje. ¿cuá es son los indicadores estables que os alumnos perciben. interaccionan y responden a sus ambientes de aprendizaje?",
+        "q": "Según la definición de estilo de aprendizaje como conjunto de elementos exteriores que influyen en el contexto de la situación de aprendizaje. ¿cuáles son los indicadores estables que os alumnos perciben. interaccionan y responden a sus ambientes de aprendizaje?",
         "a": "Los rasgos cognitivos, afectivos y fisiológicos."
     },
     {
@@ -28,7 +28,7 @@ const window_data = [
         "a": "Según la Guía de Identificación de Violencia Intrafamiliar, esta situación describe violencia patrimonial o económica. Se configura cuando el agresor controla, retira o confisca los ingresos económicos de la víctima, le impide acceder a su propio salario, restringe su capacidad de disposición sobre bienes o dinero, generando dependencia económica como mecanismo de control y sometimiento."
     },
     {
-        "q": "Según la \"Guia para la Identificación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo\", cuando progenitores, encargados de su custodia, guardadores o tutores ponen en peligro la integridad fisica 0 psicológica de la niña, niño 0 adolescente, ¿qué tipo de violencia se considera?",
+        "q": "Según la \"Guia para la Identificación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo\", cuando progenitores, encargados de su custodia, guardadores o tutores ponen en peligro la integridad fisica o psicológica de la niña, niño o adolescente, ¿qué tipo de violencia se considera?",
         "a": "Violencia contra la niñez y adolescencia."
     },
     {
@@ -48,7 +48,7 @@ const window_data = [
         "a": "La síntesis y la evaluación de los resultados obtenidos y del proceso mismo de aprendizaje."
     },
     {
-        "q": "Cuando una entidad pública es condenada judicialmente al pago de daños y perjuicios, ¿cuál es a finalidad especifica de a auditoría que debe efectuar 0 contratar la entidad que ejerce tuición?",
+        "q": "Cuando una entidad pública es condenada judicialmente al pago de daños y perjuicios, ¿cuál es la finalidad especifica de la auditoría que debe efectuar o contratar la entidad que ejerce tuición?",
         "a": "Según la normativa de Control Gubernamental, cuando una entidad pública es condenada judicialmente al pago de daños y perjuicios, la finalidad de la auditoría que debe efectuar la entidad que ejerce tuición es determinar la responsabilidad ejecutiva, administrativa y/o civil del o los servidores públicos cuya gestión negligente o dolosa causó el daño patrimonial al Estado."
     },
     {
@@ -68,7 +68,7 @@ const window_data = [
         "a": "Escuchar con atención, hablar con respeto, demostrar afecto, establecer normas claras, usar disciplina no violenta, resolver problemas juntos, y dedicar tiempo de calidad."
     },
     {
-        "q": "En el modelo pedagógico tradicional. ¿cuál de las siguientes describe con mayor precisión a finalidad principal que se asigna al proceso de evaluación del aprendizaje estudiantil?",
+        "q": "En el modelo pedagógico tradicional. ¿cuál de las siguientes describe con mayor precisión la finalidad principal que se asigna al proceso de evaluación del aprendizaje estudiantil?",
         "a": "La finalidad declara da es estima r el grado de dominio del currículum, invitando al alumno a rehacer o repetir con ligeros retoques lo que ya ha hecho en su trabajo escolar regular."
     },
     {
@@ -80,7 +80,7 @@ const window_data = [
         "a": "Porque cuando la amígdala detecta una situación amenazante se activa una respuesta de supervivencia (lucha o fuga) que bloquea el paso de la información hacia los lóbulos prefrontales o centros cognitivos, impidiendo que el apr endizaje se realice y llegue a la memoria a largo plazo."
     },
     {
-        "q": "Al diseñar una secuencia de enseñanza orientada a quee estudiante resignifique sus paradigmas y desarrolle una interpretación consciente de su entorno. ¿qué tipo de estratega cumple con mayor precisión la función de mantener la atención del estudiante. detectar información principal y conceptualizar el contenido durante el desarrollo mismo de a instrucción?",
+        "q": "Al diseñar una secuencia de enseñanza orientada a quee estudiante resignifique sus paradigmas y desarrolle una interpretación consciente de su entorno. ¿qué tipo de estratega cumple con mayor precisión la función de mantener la atención del estudiante. detectar información principal y conceptualizar el contenido durante el desarrollo mismo de la instrucción?",
         "a": "Las vías neuronales de la emoción y el aprendizaje están íntimamente entrelazadas. Un ciudadano particular que permite que un servidor público registre en su declaración jurada bienes como si le pertenecieran, configura complicidad en el delito de enriquecimiento ilícito."
     },
     {
@@ -96,7 +96,7 @@ const window_data = [
         "a": "Esta descripción corresponde al delito de Malversación. Se configura cuando un servidor público da a los caudales que administra, percibe o custodia una aplicación distinta de aquella a la que estuvieren legalmente destinados, desviando fondos públicos de su finalidad original."
     },
     {
-        "q": "Ca servidora 0 el servidor público que aprovechando del cargo que desempeña se apropiare de dinero. valores o bienes de cuya administración. cobro o custodia se hallare encargado. será sancionado con privación de libertad de cinco a diez años y mu ta de doscientos a quinientos dias. ¿A qué delito corresponde esta descripción?",
+        "q": "Ca servidora o el servidor público que aprovechando del cargo que desempeña se apropiare de dinero. valores o bienes de cuya administración. cobro o custodia se hallare encargado. será sancionado con privación de libertad de cinco a diez años y mu ta de doscientos a quinientos dias. ¿A qué delito corresponde esta descripción?",
         "a": "Esta descripción corresponde al delito de Peculado. Se configura cuando un servidor público, aprovechando el cargo que desempeña, se apropia de dinero, valores o bienes de cuya administración, cobro o custodia se hallare encargado, siendo sancionado con privación de libertad de cinco a diez años y multa de doscientos a quinientos días."
     },
     {
@@ -108,7 +108,7 @@ const window_data = [
         "a": "Marcas en el cuerpo (heridas, moretones, mordeduras, quemaduras, irritación), lesiones, fracturas, e sguinces, problemas de salud frecuentes (dolores abdominales, enuresis, encopresis), somatizaciones, trastornos alimenticios y trastornos del sueño."
     },
     {
-        "q": "Una maestra de secundaria nota que sus estudiantes tienen distintas formas de aprender y decide adaptar su práctica docente. Según los principios psicológicos de la enseñanza, ¿cuá es el propósito del principio «Individualizar el estilo de enseñanza»?",
+        "q": "Una maestra de secundaria nota que sus estudiantes tienen distintas formas de aprender y decide adaptar su práctica docente. Según los principios psicológicos de la enseñanza, ¿cuáles el propósito del principio «Individualizar el estilo de enseñanza»?",
         "a": "E l propósito es utilizar una variedad de estilos y ejercicios para que cada estudiante pueda usar su estilo favorito para aprender y, al mismo tiempo, lograr que se vuelva más eficiente en todos los demás estilos."
     },
     {
@@ -124,7 +124,7 @@ const window_data = [
         "a": "El aprendizaje episódico se distingue porque está vinculado a experiencias personales vividas en un contexto y tiempo específicos. A diferencia de otros tipos de aprendizaje, se almacena asociado a las emociones y al contexto en que ocurrió, lo que lo hace más duradero cuando se acompaña de motivación y significatividad."
     },
     {
-        "q": "Perrenoud distingue entre currículum formal y currículum real señalando que no son de a misma naturaleza. ¿Qué diferencia estructural fundamental explica que ambos curriculums operen en planos distintos dentro del sistema educativo?",
+        "q": "Perrenoud distingue entre currículum formal y currículum real señalando que no son de la misma naturaleza. ¿Qué diferencia estructural fundamental explica que ambos curriculums operen en planos distintos dentro del sistema educativo?",
         "a": "La diferencia radica en que el currículum formal es una imagen de la cultura digna de transmitirse (con división, codificación  y formación), mientras que el currículum real es una transposición pragmática que consiste en el conjunto de experiencias, tareas y actividades que originan o se supone han de originar los aprendizajes en la práctica diaria."
     },
     {
@@ -149,7 +149,7 @@ const window_data = [
     },
     {
         "q": "¿A quiénes debe ser extensivo todo servicio de atención para mujeres en situación de violencia, además de la propia mujer?",
-        "a": "Según la normativa de protección a mujeres en situación de violencia (Ley N° 348), todo servicio de atención debe ser extensivo, además de a la propia mujer víctima, a sus hijas e hijos dependientes y a otras personas que estén bajo su cuidado o tutela que también se encuentren en situación de riesgo."
+        "a": "Según la normativa de protección a mujeres en situación de violencia (Ley N° 348), todo servicio de atención debe ser extensivo, además de la la propia mujer víctima, a sus hijas e hijos dependientes y a otras personas que estén bajo su cuidado o tutela que también se encuentren en situación de riesgo."
     },
     {
         "q": "El \"Manual de resolución de problemas\". refiere que el Dagnóstico de habilidades se compone de preguntas de opción múltiple cuidadosamente seleccionadas y se puede aplicar dos veces:",
@@ -192,7 +192,7 @@ const window_data = [
         "a": "La afirmación de que en sociedades medianamente complejas el ámbito de la experiencia personal directa es muy reducido presupone un estereotipo cultural que privilegia el conocimiento institucionalizado y formalizado (currículo oficial) sobre los saberes comunitarios y experienciales. El MESCP busca superar este sesgo articulando saberes de los Pueblos Indígena Originario Campesinos con los conocimientos universales en igualdad de condiciones."
     },
     {
-        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" señala que el aprendizaje que sostiene la Cultura de Paz no puede abordarse desde una racionalidad que niegue los conflictos que se dan en el seno de a organización escolar. controlando su aparición bajo los principios del control normativo. sino que se precisa a adopción de:",
+        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" señala que el aprendizaje que sostiene la Cultura de Paz no puede abordarse desde una racionalidad que niegue los conflictos que se dan en el seno de la organización escolar. controlando su aparición bajo los principios del control normativo. sino que se precisa la adopción de:",
         "a": "Una perspectiva crítica que los considere como instrumentos esenciales para la transformación de las estructuras educativas."
     },
     {
@@ -208,7 +208,7 @@ const window_data = [
         "a": "De acuerdo a la Guía de Identificación de Violencia Intrafamiliar, cuando se sospeche de abuso sexual, la conversación deberá ser realizada por profesionales especializados (psicólogos o trabajadores sociales de la Defensoría de la Niñez y Adolescencia). El maestro NO debe interrogar a la víctima ni exigirle detalles; debe limitarse a crear un reporte discreto y derivar el caso a la DNA."
     },
     {
-        "q": "En el marco de los derechos de las personas con discapacidad, la protección de a familia hacia a persona con discapacidad en ningún caso podrá ser entendida cornœ",
+        "q": "En el marco de los derechos de las personas con discapacidad, la protección de la familia hacia la persona con discapacidad en ningún caso podrá ser entendida cornœ",
         "a": "Según la Ley N° 223, la protección de la familia hacia la persona con discapacidad en ningún caso podrá ser entendida como una forma de tutela, restricción o limitación de sus derechos fundamentales y su capacidad jurídica. La familia debe ser un espacio de apoyo y acompañamiento, no de control o sometimiento que anule la autonomía y autodeterminación de la persona con discapacidad."
     },
     {
@@ -260,7 +260,7 @@ const window_data = [
         "a": "Corresponde a una de las finalidades del presente Reglamento."
     },
     {
-        "q": "Las dinámicas de intercambio y trabajo compartido generadas por la innovación educativa de la primera década del siglo XXI. como las comunidades educativas y redes pedagógicas, ¿qué dimensión de a innovación expresan respecto al cambio \"desde abajo\"?",
+        "q": "Las dinámicas de intercambio y trabajo compartido generadas por la innovación educativa de la primera década del siglo XXI. como las comunidades educativas y redes pedagógicas, ¿qué dimensión de la innovación expresan respecto al cambio \"desde abajo\"?",
         "a": "Según el texto de Innovación Educativa, las comunidades educativas y redes pedagógicas expresan la dimensión micropolítica de la innovación, que representa el cambio 'desde abajo'. Son los propios docentes quienes, mediante el intercambio horizontal de experiencias y el trabajo colaborativo, generan transformaciones desde la base del sistema educativo, sin esperar directrices verticales del Estado."
     },
     {
@@ -268,7 +268,7 @@ const window_data = [
         "a": "Está tomando una decisión sobre los contenid os educativos basándose en un criterio socioideológico."
     },
     {
-        "q": "¿Qué tipo de documento recibe la Dirección Departamental de Educación correspondiente a la jurisdicción del instituto solicitante, en el marco de a Documentación y Archivo de la Resolución Ministerial emitida en su favor?",
+        "q": "¿Qué tipo de documento recibe la Dirección Departamental de Educación correspondiente a la jurisdicción del instituto solicitante, en el marco de la Documentación y Archivo de la Resolución Ministerial emitida en su favor?",
         "a": "Según la normativa de Institutos, la Dirección Departamental de Educación correspondiente a la jurisdicción del instituto solicitante recibe una copia legalizada de la Resolución Ministerial emitida en su favor, como parte del proceso de Documentación y Archivo."
     },
     {
@@ -316,7 +316,7 @@ const window_data = [
         "a": "Según la normativa de la Ley N° 348 y la legislación municipal, los Gobiernos Autónomos Municipales deben constituir un fondo o cuenta especial (fideicomiso o cuenta municipal específica) para administrar las multas destinadas a los Servicios de Atención Integral (SAI) para mujeres en situación de violencia."
     },
     {
-        "q": "Según 0 descrito en el texto -Convivencia escolar y resolución pacifica de conflictos\", en la actualidad. la Cultura de Paz supone:",
+        "q": "Según o descrito en el texto -Convivencia escolar y resolución pacifica de conflictos\", en la actualidad. la Cultura de Paz supone:",
         "a": "La información solicitada con esta formulación específica no se encuentra detallada en los fragmentos de la fuente propor cionada."
     },
     {
@@ -352,7 +352,7 @@ const window_data = [
         "a": "Según el documento 'Convivencia escolar y resolución pacífica de conflictos', la calidad de la convivencia educativa es decisiva porque la comunidad educativa constituye un espacio privilegiado de socialización y un laboratorio de ciudadanía donde se modelan las relaciones, valores y comportamientos que los estudiantes reproducirán en la sociedad. Es un microcosmos social que configura la convivencia de la sociedad en su conjunto."
     },
     {
-        "q": "¿Cuál de las siguientes situaciones ejemplifica 0 que Boudon denomina como efecto perverso en el contexto del currículum rea ?",
+        "q": "¿Cuál de las siguientes situaciones ejemplifica o que Boudon denomina como efecto perverso en el contexto del currículum rea ?",
         "a": "Según Boudon, el efecto perverso en el contexto del currículum real se ejemplifica cuando una acción educativa diseñada con buenas intenciones produce resultados opuestos a los esperados. Por ejemplo, cuando un maestro implementa un método innovador pero la cultura institucional tradicional y la sobrecarga burocrática terminan por desvirtuar la innovación, generando resistencia y resultados contraproducentes no previstos."
     },
     {
@@ -376,7 +376,7 @@ const window_data = [
         "a": "Según el texto de Innovación Educativa, la economía mundial basada en la tecnología presenta a los países el desafío de que sus economías nacionales se tornan más dependientes del ámbito internacional. Esto exige que la educación forme ciudadanos con pensamiento crítico, dominio de las TIC/TAC/TEP, y capacidad de adaptación e innovación constante para competir en un mercado laboral globalizado y tecnológico."
     },
     {
-        "q": "En «El currículum real y el trabajo escolar». el currículum formal es una imagen de a cu tura digna de transmitirse, mientras que el currículum real es..",
+        "q": "En «El currículum real y el trabajo escolar». el currículum formal es una imagen de la cultura digna de transmitirse, mientras que el currículum real es..",
         "a": "Un conjunto de experiencias, tareas y actividades que originan o se supone han de originar los apr endizajes."
     },
     {
@@ -485,7 +485,7 @@ const window_data = [
         "a": "Para desarrollar y evaluar estrategias es conveniente incentivar la resolución de desafíos apelando a distintos estilos de aprendizaje, es de cir, proponer distintas resoluciones, y utilizar herramientas como las preguntas meta -cognitivas para reflexionar sobre cómo lo resolvió el estudiante."
     },
     {
-        "q": "La siguiente definición de conflicto: \"Los conflictos son situaciones en las que dos o más personas entran en oposición o desacuerdo porque sus posiciones, intereses, necesidades, deseos o valores son incompatibles, 0 son percibidos como incompatibles, donde juegan un papel muy importante las emociones y sentimientos. y donde la relación entre las partes en conflicto puede salir robustecida o deteriorada en función de cómo sea el proceso de resolución del conflicto.\" Corresponde a:",
+        "q": "La siguiente definición de conflicto: \"Los conflictos son situaciones en las que dos o más personas entran en oposición o desacuerdo porque sus posiciones, intereses, necesidades, deseos o valores son incompatibles, o son percibidos como incompatibles, donde juegan un papel muy importante las emociones y sentimientos. y donde la relación entre las partes en conflicto puede salir robustecida o deteriorada en función de cómo sea el proceso de resolución del conflicto.\" Corresponde a:",
         "a": "Corresponde a la defini ción propuesta por Torrego (2000)."
     },
     {
@@ -561,7 +561,7 @@ const window_data = [
         "a": "Según el texto de Innovación Educativa, los tres elementos que el docente debe transformar para que su compromiso incida genuinamente en los procesos de innovación educativa son: sus conocimientos (actualización permanente), sus actitudes (apertura al cambio, abandono de la zona de confort) y sus prácticas pedagógicas (transitar del verbalismo y memorismo hacia metodologías activas y participativas)."
     },
     {
-        "q": "Según el Reglamento para el Fortalecimiento de a Educación Inclusiva en el SEP — Modalidad Indirecta, las instituciones educativas del Sistema Educativo Plurinacional inscribirán a todas las niñas, niños, adolescentes, jóvenes y adultos, independientemente de:",
+        "q": "Según el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP — Modalidad Indirecta, las instituciones educativas del Sistema Educativo Plurinacional inscribirán a todas las niñas, niños, adolescentes, jóvenes y adultos, independientemente de:",
         "a": "Independientemente de sus condiciones del neurodesarrollo, personales, culturales, económicas y/o sociales, conforme a la normativa vigente."
     },
     {
@@ -649,7 +649,7 @@ const window_data = [
         "a": "Se distingue porque carece de utilidad inmediata y visible, en el sentido de que lo producido no rinde un servicio a alguien ni resuelve un problema r eal, sino que su función principal es favorecer o consolidar los aprendizajes."
     },
     {
-        "q": "Según el Artícu 0 6 parágrafo III de la R.M. 350-2023 ¿qué requisitos debe cumplir la Subsede en cuanto a su estructura organizativa y autoridad máxima?",
+        "q": "Según el Artícu o 6 parágrafo III de la R.M. 350-2023 ¿qué requisitos debe cumplir la Subsede en cuanto a su estructura organizativa y autoridad máxima?",
         "a": "Debe depender académica y administrativamente de la sede central y contar con una o un Coordinador A cadémico como autoridad máxima, quien está bajo la dependencia del Rectorado o Dirección General."
     },
     {
@@ -745,7 +745,7 @@ const window_data = [
         "a": "Se caracterizan por ser iniciativas muy puntuales y pasajeras que están escasamente conect adas con una perspectiva estratégica profunda de cambio en la educación."
     },
     {
-        "q": "¿Qué carácter tienen los presupuestos de gastos del Banco Central y de las entidades públicas de intermediación financiera sometidas al programa monetario del Gobierno y a la vigilancia de a Superintendencia de Bancos?",
+        "q": "¿Qué carácter tienen los presupuestos de gastos del Banco Central y de las entidades públicas de intermediación financiera sometidas al programa monetario del Gobierno y a la vigilancia de la Superintendencia de Bancos?",
         "a": "Tienen un carácter indicativo de s us operaciones de funcionamiento y de inversión no financiera."
     },
     {
@@ -833,7 +833,7 @@ const window_data = [
         "a": "Se recomienda aplicar el Diagnóstico de habilidades."
     },
     {
-        "q": "¿Sobre qué aspectos específicos se manifiestan los efectos de la motivación en a educación. según los estudios realizados en el ámbito de la psicología educativa?",
+        "q": "¿Sobre qué aspectos específicos se manifiestan los efectos de la motivación en la educación. según los estudios realizados en el ámbito de la psicología educativa?",
         "a": "Se manifiestan en dirigir el comportamiento hacia metas particulares, llevar a un mayor es fuerzo, aumentar el inicio y la persistencia de las actividades, mejorar el procesamiento cognitivo, determinar consecuencias reforzadoras y conducir a un mejor rendimiento."
     },
     {
@@ -869,7 +869,7 @@ const window_data = [
         "a": "Los síntomas, signos o secuelas existentes."
     },
     {
-        "q": "En los niveles múltiples de 'dentificación y de prevención que se menciona en el texto \"Convivencia escolar y resolución pac'fica de conflictos\". el nivel que hace referencia a factores que crean un clima de aceptación de la violencia, los que reducen las inhibiciones contra ésta, y los que crean y mantienen las brechas entre distintos segmentos de la sociedad, o generan tensiones entre diferentes grupos 0 países, es:",
+        "q": "En los niveles múltiples de 'dentificación y de prevención que se menciona en el texto \"Convivencia escolar y resolución pac'fica de conflictos\". el nivel que hace referencia a factores que crean un clima de aceptación de la violencia, los que reducen las inhibiciones contra ésta, y los que crean y mantienen las brechas entre distintos segmentos de la sociedad, o generan tensiones entre diferentes grupos o países, es:",
         "a": "El nivel social (o macrosocial)."
     },
     {
@@ -889,7 +889,7 @@ const window_data = [
         "a": "Significa llevar a cabo un acto deliberado y planificado de solución de problemas que incide en algún aspecto estructural de la educación para mejorar su ca lidad y superar el paradigma tradicional."
     },
     {
-        "q": "Considerando el acápite de las manifestaciones de a violencia intrafamiliar descrito en la -Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", ¿cuándo existe violencia en el ámbito familiar?",
+        "q": "Considerando el acápite de las manifestaciones de la violencia intrafamiliar descrito en la -Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", ¿cuándo existe violencia en el ámbito familiar?",
         "a": "Existe cuando se da cualquier acción, omisión o supresión, de forma habitual u ocasional, que ocasione privaciones, lesiones, daños o sufrimientos (físicos, mentales, afectivos o sexuales) por parte de familiares o cuidadores."
     },
     {
@@ -917,11 +917,11 @@ const window_data = [
         "a": "Acompañar, orientar y brindar apoyo emocional a la víctima durante su derivación a las instancias competentes."
     },
     {
-        "q": "La \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" describe orientaciones cuando se conoce un caso de violencia, estas se dividen en momentos, ¿cuál de las siguientes opciones identifica lo que Si se puede hacer -Durante la contrarreferencia 0 seguimiento?",
+        "q": "La \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" describe orientaciones cuando se conoce un caso de violencia, estas se dividen en momentos, ¿cuál de las siguientes opciones identifica lo que Si se puede hacer -Durante la contrarreferencia o seguimiento?",
         "a": "Ante la falta de las opciones, lo que sí se puede hacer es: convenir para mantener el contacto, evaluar los pasos de acción y tomar nuevas decisiones."
     },
     {
-        "q": "La \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" describe orientaciones cuando se conoce un caso de violencia, estas se dividen en momentos, ¿cuál de las siguientes opciones identifica lo que Si se puede hacer -Durante la contrarreferencia 0 seguimiento?",
+        "q": "La \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" describe orientaciones cuando se conoce un caso de violencia, estas se dividen en momentos, ¿cuál de las siguientes opciones identifica lo que Si se puede hacer -Durante la contrarreferencia o seguimiento?",
         "options": [],
         "answer": ""
     },
@@ -994,8 +994,8 @@ const window_data = [
         "a": "Ante la ausencia de las opciones, corresponden: retraimiento o preferencia a estar en soledad mucho tiempo, hiperactividad, conductas regresivas (chuparse el dedo, orinarse en la cama, etc.), conductas autolesivas y llanto reiterad o sin causa aparente."
     },
     {
-        "q": "Según la neurociencia, ¿cómo se denomina al proceso de reconocer la emoción a través de la sensación corporal. eligiendo cómo manifestarla y asignándole un nombre. una cualidad y una 'ntensidad mediante el uso de los lóbu os prefrontales?",
-        "a": "Se denomina sen timiento."
+        "q": "Según la neurociencia, ¿cómo se denomina al proceso de reconocer la emoción a través de la sensación corporal. eligiendo cómo manifestarla y asignándole un nombre. una cualidad y una intensidad mediante el uso de los lóbulos prefrontales?",
+        "a": "Se denomina sentimiento."
     },
     {
         "q": "La ontogenia del desarrollo cognoscitivo humano, entendida como el proceso individual de maduración intelectual desde el nacimiento hasta la adultez, encuentra su sustento teórico en los estadios descritos por Jean Piaget ¿Cuál es el orden cronológico correcto de dichos estadios?",
@@ -1146,7 +1146,7 @@ const window_data = [
         "a": "Implica que dichos aspectos reguladores (tiempos, clasificaciones, espacios) d eterminen y condicionen fuertemente las prácticas pedagógicas sin que docentes ni estudiantes sean conscientes de ello, llevándolos a reproducir el orden escolar de forma acrítica."
     },
     {
-        "q": "La \"Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" menciona que cuando se observan inconsistencias entre los relatos de a madre. padre. tutor o cuidador. o de la misma victima, y lo registrado por la maestra o el maestro. es posible que:",
+        "q": "La \"Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\" menciona que cuando se observan inconsistencias entre los relatos de la madre. padre. tutor o cuidador. o de la misma victima, y lo registrado por la maestra o el maestro. es posible que:",
         "a": "Se trate de una señal de alerta de que se está intentando ocultar una situación de violencia o maltrato contra la niña, niño o adolescente en su entorno."
     },
     {
@@ -1162,7 +1162,7 @@ const window_data = [
         "a": "Ese interés inicial se esfuma rápidamente, en la medida en que la escuela tiene el secreto de convertir las actividades en tareas de repetición y ejercicio rutinario, dando pronto la impresión de lo ya conocido -."
     },
     {
-        "q": "¿Dónde se desarro la el modelo de entrenamiento 0 institucional, según Imbernón?",
+        "q": "¿Dónde se desarro la el modelo de entrenamiento o institucional, según Imbernón?",
         "a": "Se desarrolla mediante cursos de actualización científica en instituciones como los centros de profesores o facultades."
     },
     {
@@ -1178,7 +1178,7 @@ const window_data = [
         "a": "Porque se corre el riesgo de caer en la rutina y en la instalación perpetua de prácticas o modelos que, aunque en su día pudieron significar una ruptur a, pierden su vigencia y ya no lo son en la actualidad."
     },
     {
-        "q": "¿De qué manera la investigación-acción. la autoevaluación. la sistematización y la reflexión sobre las prácticas pedagógicas contribuyen al marco de a innovación educativa?",
+        "q": "¿De qué manera la investigación-acción. la autoevaluación. la sistematización y la reflexión sobre las prácticas pedagógicas contribuyen al marco de la innovación educativa?",
         "a": "Contribuyen al constituirse como estrategias esenciales para alimentar y sostene r las innovaciones educativas de manera continua, funcionando al mismo tiempo como herramientas efectivas de formación profesional docente en servicio."
     },
     {
@@ -1210,7 +1210,7 @@ const window_data = [
         "a": "Ante la falt a de las opciones, se fundamenta en suministrar herramientas a los estudiantes para que sean capaces de buscar, seleccionar y crear conocimiento por sí mismos, desarrollándose como individuos más libres, solidarios, creativos y con capacidad de resolver pr oblemas de la vida real."
     },
     {
-        "q": "Un maestro quiere diseñar actividades que promuevan el funcionamiento óptimo de a corteza prefrontal —sede del pensamiento racional, la planificación y a toma de decisiones— en sus estudiantes. ¿Qué condiciones pedagógicas favorecen específicamente su activación y desarrollo?",
+        "q": "Un maestro quiere diseñar actividades que promuevan el funcionamiento óptimo de la corteza prefrontal —sede del pensamiento racional, la planificación y a toma de decisiones— en sus estudiantes. ¿Qué condiciones pedagógicas favorecen específicamente su activación y desarrollo?",
         "a": "Favorecen su activación las actividades que incluyen elementos de novedad, desafíos, estímulos internos y externos, alta motivación y un aprendizaje basado en la acción."
     },
     {
@@ -1242,7 +1242,7 @@ const window_data = [
         "a": "Tiene como cons ecuencia que el currículum real nunca constituya la estricta realización del currículum formal (la intención  del maestro), ya que las actividades escapan en parte a su control debido a las resistencias de los alumnos y a los imprevist os de la práctica pedagógica cotidiana."
     },
     {
-        "q": "Según el enfoque de a innovación educativa promovido por la UNESCO, ¿cuál es el aporte central del estudio de la innovación educativa a la labor docente?",
+        "q": "Según el enfoque de la innovación educativa promovido por la UNESCO, ¿cuál es el aporte central del estudio de la innovación educativa a la labor docente?",
         "a": "Su aporte central es servir de ayuda para la formación y autoformación de los docentes, motivándolo s a la reflexión crítica sobre su práctica profesional y apoyándolos a descubrir sus potencialidades para generar cambios, permitiéndoles asumir un rol protagónico como creadores de saber."
     },
     {
@@ -1322,7 +1322,7 @@ const window_data = [
         "a": "Asumir un rol protagónico e interactivo para construir el conocimiento entre todos mediante la resolución de problemas rea les, abandonando la concepción pasiva y memorística del aprendizaje."
     },
     {
-        "q": "¿Qué necesidad generó en el cerebro humano la constante adaptación a distintos entornos a lo argo de a evolución?",
+        "q": "¿Qué necesidad generó en el cerebro humano la constante adaptación a distintos entornos a lo argo de la evolución?",
         "a": "Generó la necesidad de estar preparado naturalmente para aprender cosas nuevas todo el tiempo."
     },
     {
@@ -1342,7 +1342,7 @@ const window_data = [
         "a": "Juega un papel fundamental; las emociones positivas facilitan la consolidación."
     },
     {
-        "q": "¿A qué tipo de motivación se hace referencia desde las teorías cognitivas cuando la organización de a enseñanza induce un desequilibrio que impulsa al estudiante a buscar soluciones por iniciativa propia. convirtiendo el aprendizaje en un proceso con valor inherente?",
+        "q": "¿A qué tipo de motivación se hace referencia desde las teorías cognitivas cuando la organización de la enseñanza induce un desequilibrio que impulsa al estudiante a buscar soluciones por iniciativa propia. convirtiendo el aprendizaje en un proceso con valor inherente?",
         "a": "Se hace referencia a la motivación intrínseca."
     },
     {
@@ -1442,7 +1442,7 @@ const window_data = [
         "a": "La secuencia correspondiente incluye: 1) Detección, 2) Actuación y protección (comunicar inmediatamente a la directora o director para brindar contención e informar a los padres, siempre que no s ean los agresores), y 3) Derivación y seguimiento (denunciar el caso ante la Defensoría de la Niñez y Adolescencia)."
     },
     {
-        "q": "Una estudiante es agredida de forma verbal por su maestro frente a toda a clase, en varias ocasiones. ¿Cuál es la acción inmediata que se debe seguir en esta situación por el director de a unidad Educativa?",
+        "q": "Una estudiante es agredida de forma verbal por su maestro frente a toda a clase, en varias ocasiones. ¿Cuál es la acción inmediata que se debe seguir en esta situación por el director de la unidad Educativa?",
         "a": "El director debe asegurar la protección y con tención de la estudiante, denunciar el hecho de violencia psicológica ante la Defensoría de la Niñez y Adolescencia (DNA) e informar inmediatamente a la Dirección Distrital Educativa para el inicio del respectivo proceso administrativo o disciplinario cont ra el maestro."
     },
     {
@@ -1498,7 +1498,7 @@ const window_data = [
         "a": "Más allá de producir aprendizaje, las actividades conforman la vida social del aula, articulan la propia práct ica, configuran las metodologías, permiten analizar los esquemas prácticos del profesor y mediatizan en gran medida la idea que el estudiante tiene de la escuela."
     },
     {
-        "q": "Cuando se observan inconsistencias entre los relatos de la madre. padre. tutor o cuidador, 0 de la misma victima. y lo registrado por la maestra o el maestro. es posible que se esté frente a un caso de violencia ¿Qué acción debe considerarse en estos casos?",
+        "q": "Cuando se observan inconsistencias entre los relatos de la madre. padre. tutor o cuidador, o de la misma victima. y lo registrado por la maestra o el maestro. es posible que se esté frente a un caso de violencia ¿Qué acción debe considerarse en estos casos?",
         "a": "Se debe considerar como una señal de alerta de encubrimiento; en tal sentido, la maestra o maestro debe evitar realizar interrogatorios exhaustivos que revictimicen, y comunicar el hecho a la dirección para que active la ruta de protección derivando e l caso a la Defensoría de la Niñez y Adolescencia u otra instancia competente."
     },
     {
@@ -1550,11 +1550,11 @@ const window_data = [
         "a": "Investigar, experimentar y resolver problemas realistas vinculados al mundo real mediante la indagación, asumien do un control activo sobre su aprendizaje e integrando contenidos de diferentes disciplinas."
     },
     {
-        "q": "El texto \"Convivencia escolar y resolución pacifca de conflictos- señala que la construcción de a cultura de paz en los centros educativos exige educar en y para el conflicto (Cascón, 2001), descubriendo la perspectiva positiva del conflicto, aprendiendo a analizar los conflictos y a descubrir su complejidad y:",
+        "q": "El texto \"Convivencia escolar y resolución pacifca de conflictos- señala que la construcción de la cultura de paz en los centros educativos exige educar en y para el conflicto (Cascón, 2001), descubriendo la perspectiva positiva del conflicto, aprendiendo a analizar los conflictos y a descubrir su complejidad y:",
         "a": "Encontrando soluciones a los conflictos que se producen en su seno, formando a todos los miembros de la comunidad educativa para que aprendan a enfrentar y resolver sus diferencias pa cíficamente."
     },
     {
-        "q": "para el neuroaprendizaje, ¿en qué proceso de la memoria se produce el análisis de a información según el estimulo?",
+        "q": "para el neuroaprendizaje, ¿en qué proceso de la memoria se produce el análisis de la información según el estimulo?",
         "a": "Se produce en la memoria de trabajo (o proceso de procesamiento de información en estado de reflexión)."
     },
     {
@@ -1578,7 +1578,7 @@ const window_data = [
         "a": "Ante la ausencia de opciones, describe la capacidad de enseñarles que su cuerpo es su territorio privado, que nadie puede tocarlo sin su permiso, a reconocer sus partes íntimas y a diferenciar las caricias buenas de las malas."
     },
     {
-        "q": "Según el \"Manual de resolución de problemas\", ¿cuál es el objetivo de a Lección 1: Qué es a resolución de problemas?",
+        "q": "Según el \"Manual de resolución de problemas\", ¿cuál es el objetivo de la Lección 1: Qué es a resolución de problemas?",
         "a": "Reconocer que la resolución de problemas es la capacidad de identificar una dificultad y tomar medidas lógicas para encontrar una soluc ión deseada, así como de supervisar y evaluar su implementación."
     },
     {
@@ -1606,7 +1606,7 @@ const window_data = [
         "a": "La plasticidad cerebral (o neuroplasticidad)."
     },
     {
-        "q": "¿Qué pena se aplica a quien ayude a Otra persona a cometer suicidio 0 la instigue a el 0. cuando la muerte se hubiere intentado o consumado?",
+        "q": "¿Qué pena se aplica a quien ayude a Otra persona a cometer suicidio o la instigue a el o. cuando la muerte se hubiere intentado o consumado?",
         "a": "De acuerdo con el Código Penal Boliviano, se aplica la sanción de reclusión de dos a seis años."
     },
     {
@@ -1626,7 +1626,7 @@ const window_data = [
         "a": "Es i ndispensable que exista un clima de confianza y apoyo que le permita atreverse a asumir riesgos, en el cual no se censuren los errores, considerándolos como parte del proceso y fuente de aprendizaje."
     },
     {
-        "q": "¿Cuál de las siguientes consecuencias a corto plazo dentro de a agresión corresponde a la categoria conductual. en un caso de violencia sexual?",
+        "q": "¿Cuál de las siguientes consecuencias a corto plazo dentro de la agresión corresponde a la categoria conductual. en un caso de violencia sexual?",
         "a": "Conductas como: ausentismo escolar injustificado, comportamiento agresivo, conductas autodestructivas, aislamiento social, hiperactividad o rechazo a la autoridad."
     },
     {
@@ -1666,7 +1666,7 @@ const window_data = [
         "a": "Es identificada como una forma de revictimización la acción de s obreproteger a la víctima, así como observarla constantemente, ignorarla o someterla a interrogatorios exhaustivos sobre lo sucedido."
     },
     {
-        "q": "En el marco de a neurociencia educativa, comprender qué es una emoción resulta fundamental para que el docente interprete el comportamiento de sus estudiantes y diseñe entornos de aprendizaje adecuados. ¿Cuál de las siguientes definiciones describe correctamente a la emoción desde una perspectiva neurológica?",
+        "q": "En el marco de la neurociencia educativa, comprender qué es una emoción resulta fundamental para que el docente interprete el comportamiento de sus estudiantes y diseñe entornos de aprendizaje adecuados. ¿Cuál de las siguientes definiciones describe correctamente a la emoción desde una perspectiva neurológica?",
         "a": "Se define como una reacción psicofisiológica automática (que ocurre en 125 milésimas de segundo) que representa un modo de adaptación del individuo cuando percibe un estímulo importante, preparándolo velozmente para una reacción."
     },
     {
@@ -1682,7 +1682,7 @@ const window_data = [
         "a": "Suby ace el proceso de neuroplasticidad o plasticidad cerebral (activado en los \"períodos críticos y sensibles\"), mediante el cual el cerebro modifica y esculpe velozmente sus redes y conexiones neuronales a partir de cada nueva experiencia."
     },
     {
-        "q": "En «Diseño. desarrollo e innovación del currículum», cada autor aborda el currículum desde una perspectiva distinta ¿Qué autor lo analiza prioritariamente desde la sociología de a experiencia escolar y las desigualdades que reproduce?",
+        "q": "En «Diseño. desarrollo e innovación del currículum», cada autor aborda el currículum desde una perspectiva distinta ¿Qué autor lo analiza prioritariamente desde la sociología de la experiencia escolar y las desigualdades que reproduce?",
         "a": "Es Philippe Perre noud, quien analiza el currículum real, el trabajo escolar cotidiano, las rutinas y el currículum oculto que forma el \"oficio de alumno\"."
     },
     {
@@ -1834,7 +1834,7 @@ const window_data = [
         "a": "Implica que la escuela puede funcionar y acomodarse muy bien a alumnos dóciles y desprovistos de imaginación, pasando por alto la creatividad o el espíritu crítico, ya que para la mayoría de los docentes lo verdaderamente vital es conseguir a corto plazo el orden y la aplicación disciplinada en el trabajo escolar cotidiano."
     },
     {
-        "q": "¿Qué revela. según Perrenoud. el hecho de que algunos maestros administren pruebas con todas las características de a evaluación formal pero sin asignar nota?",
+        "q": "¿Qué revela. según Perrenoud. el hecho de que algunos maestros administren pruebas con todas las características de la evaluación formal pero sin asignar nota?",
         "a": "Revela que, en determinadas clases, el trabajo escolar se concibe y presenta claramente como u na preparación directa para la evaluación, utilizando este tipo de pruebas sin calificación como ejercicios de transición o entrenamiento entre el trabajo ordinario diario y la evaluación formal definitiva."
     },
     {
@@ -1946,7 +1946,7 @@ const window_data = [
         "a": "Según el texto de Innovación Educativa, en el modelo SAMR una práctica docente mediada por TIC alcanza el nivel más alto de integración (Redefinición) cuando la tecnología permite crear experiencias de aprendizaje completamente nuevas e imposibles sin ella. No se limita a sustituir o mejorar actividades existentes, sino que redefine radicalmente la tarea pedagógica, empoderando al estudiante como creador activo de conocimiento."
     },
     {
-        "q": "Desde la dimensión tecnológ'ca de a innovación educativa. ¿qué condición imp'de que la incorporación de tecnología digital se convierta en una experiencia innovadora educativa genuina?",
+        "q": "Desde la dimensión tecnológ'ca de la innovación educativa. ¿qué condición imp'de que la incorporación de tecnología digital se convierta en una experiencia innovadora educativa genuina?",
         "a": "Lo impide el hecho de incorporar la tecnología de manera aislada (co mo simplemente introducir computadoras), sin que esto vaya acompañado de una transformación integral en el enfoque mismo de la educación, el rol del docente y las estrategias de enseñanza centradas en el aprendizaje."
     },
     {
@@ -2002,7 +2002,7 @@ const window_data = [
         "a": "De acuerdo con la legislación penal boliviana (Ley N° 348 y Código Penal), el límite e stablecido para que procedan las sanciones alternativas a la privación de libertad es que la pena impuesta para el delito no sea mayor a tres (3) años."
     },
     {
-        "q": "¿Qué condición es indispensabe para que la innovación educativa logre impactos en los múltiples ámbitos de a sociedad?",
+        "q": "¿Qué condición es indispensabe para que la innovación educativa logre impactos en los múltiples ámbitos de la sociedad?",
         "a": "Es indispensable que los procesos de cambio e innovación dejen de ser iniciativas puntuales o aisladas y se asuman como un acto delib erado, sistemático y planificado, modificando las estructuras de la institución educativa mediante metas organizadas y el compromiso activo de los docentes."
     },
     {
@@ -2058,7 +2058,7 @@ const window_data = [
         "a": "Revela el choque frontal entre la necesidad de educar con una actitud de apertura y flexibilidad mental ante un mundo incierto, frente a la rígida concepción canónica de la escuela que se empeña en transmitir contenidos fragmentados e \"intocables\" mediante asignaturas cerradas."
     },
     {
-        "q": "Gimeno Sacristán afirma que acceder a «todo 0 escrito» mediante a a fabetización constituye «la gran oportunidad» del aprendizaje escoar. mientras que la ora idad queda referida como una forma de codificación anterior y menos frecuente en la escuela. ¿Qué presupuesto teórico subyace a esa jerarquización?",
+        "q": "Gimeno Sacristán afirma que acceder a «todo o escrito» mediante a a fabetización constituye «la gran oportunidad» del aprendizaje escoar. mientras que la ora idad queda referida como una forma de codificación anterior y menos frecuente en la escuela. ¿Qué presupuesto teórico subyace a esa jerarquización?",
         "a": "Subyace el presupuesto de que la experiencia humana directa es muy limitada, por lo que la educación formal debe recurrir ineludiblemente a las fuentes codificadas mediante signos abstractos (la lecto -escritura) como la vía principal para acceder al inmenso archivo histórico del saber y la experiencia humana,."
     },
     {
@@ -2110,7 +2110,7 @@ const window_data = [
         "a": "La consecuencia es que los gestores tecnocráticos terminan escondiendo y disfrazando sus verdaderas opciones ideológicas, culturales y políticas detrás de falsos argumentos técnicos y de aparente neutralidad (asepsia), evadiendo así el transparentar y resolver los verdaderos conflictos de poder que subyace n en la educación."
     },
     {
-        "q": "Según Sacristán, ¿qué significa que la discusión curricular bajo la óptica de a experiencia cultural subjetiva quede «muy pendiente de la categoria aprendizaje y menos de la de contenidos» ?",
+        "q": "Según Sacristán, ¿qué significa que la discusión curricular bajo la óptica de la experiencia cultural subjetiva quede «muy pendiente de la categoria aprendizaje y menos de la de contenidos» ?",
         "a": "Significa que, al enfocarse casi exclusivamente en los procesos internos de cómo aprende y madura el alumno (su experiencia), se diluye la definición del proyecto cultural normativo, dejando al docente sin un criterio u orientación clara sobre la decisión fundamental de qué cultura o contenidos concretos se deben impartir."
     },
     {
@@ -2122,7 +2122,7 @@ const window_data = [
         "a": "Revela que estas dimensiones operan como opciones cristalizadas y tradiciones  interiorizadas de forma implícita e invisible (como un habitus ), que prefiguran nuestra mentalidad para hacernos aceptar que la fragmentación del saber es la única forma natural y \"normal\" de organizarlo, siendo en realidad una estructura arbitraria y contingente."
     },
     {
-        "q": "Sacristán describe una estructura esencial de a práctica educativa moderna trabada por dispositivos articulados, ¿Qué condición hace que esa estructura resulte funcional como sistema?",
+        "q": "Sacristán describe una estructura esencial de la práctica educativa moderna trabada por dispositivos articulados, ¿Qué condición hace que esa estructura resulte funcional como sistema?",
         "a": "Resulta altamente funcional porque logra ensamblar un dispositivo nor mador conjugando de manera sincronizada la agrupación de alumnos en categorías (clases), la estandarización de rutinas reproducibles (método) y la secuenciación de contenidos acotados en el tiempo (cursos o grados), facilitando así la clasificación y el control de los sujetos."
     },
     {
@@ -2170,7 +2170,7 @@ const window_data = [
         "a": "Representa que la innovación es un proceso flexible y creativo donde los docentes actúan como \"autores\" que van creando y expandiendo los límites sobre la marcha, en contraposición a ser meros \"actores\" que ejecutan rígidamente un libreto o partitura previamente definidos."
     },
     {
-        "q": "¿Qué implica que el aprendizaje del sentido común forme parte del oficio de a umno. al igual que os demás aprendizajes del currículum oculto?",
+        "q": "¿Qué implica que el aprendizaje del sentido común forme parte del oficio de la umno. al igual que os demás aprendizajes del currículum oculto?",
         "a": "Implica que la asimilación de estas reglas y rutinas no solo le sirve al estudiante para adaptarse burocráticam ente a la escuela, sino que surte un efecto duradero que lo prepara eficazmente para su futura integración social y desenvolvimiento en otras organizaciones durante la vida adulta."
     },
     {
@@ -2194,7 +2194,7 @@ const window_data = [
         "a": "Revela que es una metodología fundame ntada en el aprendizaje activo y centrado en el alumno, otorgándole mayor autonomía, iniciativa y control sobre su propio proceso de indagación."
     },
     {
-        "q": "¿Qué argumento aporta Capra al debate sobre la g oba ización curricular que Feito incorpora para cuestionar la organización disciplinar de a escuela?",
+        "q": "¿Qué argumento aporta Capra al debate sobre la g oba ización curricular que Feito incorpora para cuestionar la organización disciplinar de la escuela?",
         "a": "Aporta la necesidad de pasar del pensamiento analítico al pensamiento sistémico, argumentando que las p ropiedades de las partes solo se pueden comprender en el contexto del conjunto (totalidad), lo que desvirtúa la fragmentación en asignaturas estancas."
     },
     {
@@ -2366,7 +2366,7 @@ const window_data = [
         "a": "Las actividades orienta das a la percepción directa de nueva información, aprovechando que durante ese estado de alerta máximo (denominado \"Uptime\") todos los sentidos están activos y receptivos sin la interferencia del diálogo interno."
     },
     {
-        "q": "Perrenoud advierte que la escue a. al igual que otras organizaciones. mantiene en secreto su cultura interna, y que los alumnos no perciben con claridad los limites entre la cultura escolar encarnada en el currículum y la cultura de a organización. ¿Qué efecto produce esta indistinción sobre la experiencia formativa del alumno?",
+        "q": "Perrenoud advierte que la escue a. al igual que otras organizaciones. mantiene en secreto su cultura interna, y que los alumnos no perciben con claridad los limites entre la cultura escolar encarnada en el currículum y la cultura de la organización. ¿Qué efecto produce esta indistinción sobre la experiencia formativa del alumno?",
         "a": "Produce el efecto de que los objetivos generales de enseñanza se mezclen y encubran con las rutinas burocráticas; obligando al estudiante a aprender y asumir el \"oficio de alumno\" (conformismo, orden, cumplimiento de reglas) para poder sobrevivir funcionalmente en la organización escolar."
     },
     {
@@ -2398,7 +2398,7 @@ const window_data = [
         "a": "Planificar de manera conjunta con la o el maestro de aula los contenidos curriculares, así como explicar palabras nuevas y abstractas mediante su ejem plificación y contextualización utilizando la Lengua de Señas Boliviana."
     },
     {
-        "q": "En el marco de los principios psicológicos de a enseñanza, un maestro de ciencias naturales organiza sus clases de manera que los estudiantes primero identifican conceptos clave. luego los aplican en situaciones concretas y finalmente resuelven problemas relacionados, permitiendo además que sean ellos quienes construyan parte de la secuencia ¿Qué principio psicológico de a enseñanza está aplicando este docente?",
+        "q": "En el marco de los principios psicológicos de la enseñanza, un maestro de ciencias naturales organiza sus clases de manera que los estudiantes primero identifican conceptos clave. luego los aplican en situaciones concretas y finalmente resuelven problemas relacionados, permitiendo además que sean ellos quienes construyan parte de la secuencia ¿Qué principio psicológico de la enseñanza está aplicando este docente?",
         "a": "Está aplicando el principio de \"desarrollar una jerarquía  estructurada de contenido\", el cual establece que el contenido debe incluir conceptos, aplicaciones y resolución de problemas, brindando oportunidades para que el estudiante realice parte de esa estructuración."
     },
     {
@@ -2454,7 +2454,7 @@ const window_data = [
         "a": "Se caracteriza por regular la ingesta, el sueño, la temperatura, el ritmo cardíaco, el hambre, la sed, la agresión y la ira; tiene fuerte relación con el olfato y la necesidad d e vínculos, y archiva estímulos de dolor o placer como respuestas de supervivencia, afectando el aprendizaje positiva o negativamente."
     },
     {
-        "q": "¿Qué señala el nuevo paradigma de a evaluación según el neuroaprendizaje?",
+        "q": "¿Qué señala el nuevo paradigma de la evaluación según el neuroaprendizaje?",
         "a": "Señala que la evaluación debe entenderse como una instancia asertiva, un proceso de diálogo, comprensión y mejora, evitando situaciones estresantes o amenazantes que bloqueen el aprendizaje e incorporando actividades creativas y juegos simples."
     },
     {
@@ -2478,7 +2478,7 @@ const window_data = [
         "a": "Estas prácticas generales (o principios de enseñanza) son: proceder de lo conocido a lo desconocido, del análisis a la síntesis, de lo simple a lo complejo, del todo a las partes, de lo concreto a lo abstracto, de lo empírico a lo racional, de lo psicológico a lo lógico, y de lo real a lo representativo."
     },
     {
-        "q": "La maestra Lucia inicia su clase explicando el tema durante toda la hora, los estudiantes escuchan en silencio, copian las definiciones del pizarrón y al final responden preguntas cerradas sobre el contenido. Según los principios basados en a investigación sobre la buena enseñanza, ¿qué imitación fundamental presenta a práctica de a maestra Lucía?",
+        "q": "La maestra Lucia inicia su clase explicando el tema durante toda la hora, los estudiantes escuchan en silencio, copian las definiciones del pizarrón y al final responden preguntas cerradas sobre el contenido. Según los principios basados en a investigación sobre la buena enseñanza, ¿qué imitación fundamental presenta a práctica de la maestra Lucía?",
         "a": "Presenta la limitación de ignorar el principio de asegurar que el estudiante esté activo, ya que se basa en un modelo puramente transmisivo y pasivo que no le permite al alumno trabajar activamente con el material ni aplicar el conocimiento."
     },
     {
@@ -2510,7 +2510,7 @@ const window_data = [
         "a": "Constituye el delit o de \"Us o Indebido de Bienes y Servicios Públicos\" o \"Malversación\" (según la Ley N° 004), y está sancionado con privación de libertad de uno (1) a cuatro (4) años."
     },
     {
-        "q": "¿Cuál es la sanción establecida para quien, con la finalidad de ocultar, disimular o legitimar el incremento patrimonial ilícito, facilitare Su nombre 0 participare en actividades económicas, financieras y comerciales?",
+        "q": "¿Cuál es la sanción establecida para quien, con la finalidad de ocultar, disimular o legitimar el incremento patrimonial ilícito, facilitare Su nombre o participare en actividades económicas, financieras y comerciales?",
         "a": "Constituye el delito de \"Favorecimi ento al Enriquecimiento Ilícito\" (según la Ley N° 004) y se sanciona con privación de libertad de tres (3) a ocho (8) años, inhabilitación para el ejercicio de la función pública y el decomiso de los bienes obtenidos ilícitamente."
     },
     {
@@ -2526,7 +2526,7 @@ const window_data = [
         "a": "Se sanciona con privación de libertad de cinco (5) a doce (12) años."
     },
     {
-        "q": "¿Cuál es la pena privativa de libertad establecida para el delito de violación cuando la víctima es una niña niño 0 adolescente menor de catorce (14) años?",
+        "q": "¿Cuál es la pena privativa de libertad establecida para el delito de violación cuando la víctima es una niña niño o adolescente menor de catorce (14) años?",
         "a": "Será sancionado con privación de libertad de veinte (20) a veinticinco (25) años."
     },
     {
@@ -2534,7 +2534,7 @@ const window_data = [
         "a": "Se  sanciona con privación de libertad de cinco (5) a diez (10) años, inhabilitación para ejercer la función pública y el decomis o de los bienes obtenidos ilícitamente."
     },
     {
-        "q": "¿Cuál es la sanción establecida para el delito de abuso sexual cuando no existe penetración 0 acceso carnal?",
+        "q": "¿Cuál es la sanción establecida para el delito de abuso sexual cuando no existe penetración o acceso carnal?",
         "a": "La pena será de seis (6) a diez (10) años de privación de libertad."
     },
     {
@@ -2558,7 +2558,7 @@ const window_data = [
         "a": "Será sancionada con privación de libertad de cuatro (4) a ocho (8) años."
     },
     {
-        "q": "El que prometiere, ofreciere u otorgare en forma directa 0 indirecta, a un funcionario público extranjero o de una organización internacional pública beneficios como dádivas. favores o ventajas. con el fin de que dicho funcionario actúe o se abstenga de actuar en el ejercicio de sus funciones para obtener o mantener un beneficio indebido en relación con la realización de actividades comerciales internacionales. ¿Cuál es la sanción estab ecida para esta conducta?",
+        "q": "El que prometiere, ofreciere u otorgare en forma directa o indirecta, a un funcionario público extranjero o de una organización internacional pública beneficios como dádivas. favores o ventajas. con el fin de que dicho funcionario actúe o se abstenga de actuar en el ejercicio de sus funciones para obtener o mantener un beneficio indebido en relación con la realización de actividades comerciales internacionales. ¿Cuál es la sanción estab ecida para esta conducta?",
         "a": "Se sanciona con privación de libertad de c inco (5) a diez (10) años y una multa de cien (100) a quinientos (500) días."
     },
     {
@@ -2566,7 +2566,7 @@ const window_data = [
         "a": "De acuerdo con la legislación penal boliviana (modificada por la Ley N° 348), este hecho constituye el delito de lesiones graves y leves, y se sanciona con privación de libertad de tres (3) a seis (6) años."
     },
     {
-        "q": "¿Cuál es la sanción para quien cause un aborto forzado mediante violencia fisica, psicológica 0 sexual contra la mujer?",
+        "q": "¿Cuál es la sanción para quien cause un aborto forzado mediante violencia fisica, psicológica o sexual contra la mujer?",
         "a": "Según la normativa penal boliviana, quien causare un aborto sin el consentimiento de la mujer y ejerciendo violencia física, psicológi ca o sexual sobre ella, será sancionado con privación de libertad de tres (3) a ocho (8) años."
     },
     {
@@ -2594,7 +2594,7 @@ const window_data = [
         "a": "El principio de moralidad implica la necesidad ineludible de encontrar soluciones justas para quienes se encuentran implicados en alguna situación conflictiva."
     },
     {
-        "q": "De acuerdo a la Ley General para personas con discapacidad, en el marco del derecho a protección de su familia. ¿cómo se define a la familia en relación con a persona con discapacidad?",
+        "q": "De acuerdo a la Ley General para personas con discapacidad, en el marco del derecho a protección de su familia. ¿cómo se define a la familia en relación con la persona con discapacidad?",
         "a": "Se la concibe como el núcleo fundamental de protección, siendo la principal res ponsable de garantizar el cuidado, apoyo, estabilidad de la salud (como el consumo de medicación) y de fomentar la capacitación e inclusión social de la persona con discapacidad."
     },
     {
@@ -2726,7 +2726,7 @@ const window_data = [
         "a": "Es importante porque integra estrechamente la enseñanza con la investigación, permitiendo al docente reflexionar sobre su propia práctica y los desafíos del aula para ge nerar conocimiento y mejorar la calidad de la escuela."
     },
     {
-        "q": "¿por qué los proyectos didácticos deben tener valor para los individuos, relación con asignaturas 0 disciplinas, ser factib es y desafiantes, y buscar soluciones a un problema?",
+        "q": "¿por qué los proyectos didácticos deben tener valor para los individuos, relación con asignaturas o disciplinas, ser factib es y desafiantes, y buscar soluciones a un problema?",
         "a": "Porque de esta manera logran integrar la teoría con la práctica, desarrollan habilidades individuales y colectivas mediante la indagación, y preparan eficazmente a los estudiantes para enfrentar los retos de su futura vida profesional."
     },
     {
@@ -2786,7 +2786,7 @@ const window_data = [
         "a": "Porque la escuela es un sistema vivo y cambiante, lo que exige que toda innovación deba someterse a una revisión crítica constante y permanen te para no caer en la rutina ni volverse obsoleta con el paso del tiempo."
     },
     {
-        "q": "¿Por qué Perrenoud afirma que el interés inicial de los alumnos ante una actividad nueva tiende a desvanecerse en el transcurso de a escolaridad?",
+        "q": "¿Por qué Perrenoud afirma que el interés inicial de los alumnos ante una actividad nueva tiende a desvanecerse en el transcurso de la escolaridad?",
         "a": "Se desvanece porque la escuela basa gran parte de su didáctica en el \"secreto de la repetici ón y del ejerci cio\", transformando el trabajo escolar en un conjunto de rutinas estandarizadas, fragmentadas y aburridas donde se valora más el conformismo que la creatividad."
     },
     {
@@ -2842,7 +2842,7 @@ const window_data = [
         "a": "Porque no se trató de una simple mejora superficial o ajuste aislado a las rutinas existentes (propio de lo incremen tal), sino de una verdadera transformación y ruptura con los esquemas y la cultura escolar tradicional, asumiendo las maestras un rol autónomo como investigadoras y creadoras de su propio currículo."
     },
     {
-        "q": "El modelo «entrenamiento 0 institucional» de Imbernón se desarrolla mediante cursos de actualización científica en instituciones como los centros de formación de maestros. ¿Por qué se la caracteriza como un modelo de orientación vertical?",
+        "q": "El modelo «entrenamiento o institucional» de Imbernón se desarrolla mediante cursos de actualización científica en instituciones como los centros de formación de maestros. ¿Por qué se la caracteriza como un modelo de orientación vertical?",
         "a": "Se le caracteri za así porque es el formador (y no el docente) quien toma el control y selecciona las estrategias instructivas que ayudarán al maestro a lograr los resultados esperados."
     },
     {
@@ -2858,7 +2858,7 @@ const window_data = [
         "a": "Porque la lectura y escritura son condiciones básicas de participación; al carecer de este saber hacer esencial, el estudiante no podrá comprender lo que se espera de él ni llevar a cabo la mayor parte del trabajo impuesto, convirtiéndose en un \"inadaptado escolar\"."
     },
     {
-        "q": "En el proyecto descrito en el texto de Innovación Educativa de a UNESCO, ¿por qué se considera a la escuela como una \"encrucijada de culturas\"?",
+        "q": "En el proyecto descrito en el texto de Innovación Educativa de la UNESCO, ¿por qué se considera a la escuela como una \"encrucijada de culturas\"?",
         "a": "Porque la escuela (como en el caso de la Escuela Rural Los Soches) opera en un contexto de mixtura donde conv ergen las problemáticas socioeconómicas y medioambientales de la comunidad, existiendo además una fuerte tensión entre el saber local o popular de los niños y el conocimiento científico académico que la institución busca generar."
     },
     {
@@ -3126,7 +3126,7 @@ const window_data = [
         "a": "Los tres ámbitos de actuación básicos son el individual, el familiar y el escolar."
     },
     {
-        "q": "¿Cuál fue la razón del uso de viñetas secuenciadas cronológicamente en la enseñanza de a historia?",
+        "q": "¿Cuál fue la razón del uso de viñetas secuenciadas cronológicamente en la enseñanza de la historia?",
         "a": "Su razón principal es organizar visualmente los eventos para ayudar a los estudiantes a comprender mejor la progresión temporal, las relaciones de causa y efecto, y facilitar la retención estructurada y concreta de los procesos históricos."
     },
     {
@@ -3146,7 +3146,7 @@ const window_data = [
         "a": "Permite aumentar el arraigo y la adhesión de todos los miembros con la institución, lo cual favorece el desa rrollo de buenas prácticas educativas (clima educativo), refuerza los vínculos de confianza y cooperación, y reduce significativamente la conflictividad escolar."
     },
     {
-        "q": "En los estilos de aprendizaje se puede partir de una experiencia concreta 0 una conceptualización abstracta: estas experiencias se transforman en conocimientos cuando los analizamos y aplicamos a la realidad. ¿Cuáles son las fases de este proceso?",
+        "q": "En los estilos de aprendizaje se puede partir de una experiencia concreta o una conceptualización abstracta: estas experiencias se transforman en conocimientos cuando los analizamos y aplicamos a la realidad. ¿Cuáles son las fases de este proceso?",
         "a": "Las fa ses de este proceso, según el modelo de Kolb, son cuatro: teorizar, experimentar, actuar y reflexionar."
     },
     {
@@ -3190,7 +3190,7 @@ const window_data = [
         "a": "Al no presentarse opciones, el reto pedagógico fundamental es trascender el modelo puramente transm isivo o instrumental de la tecnología para convertirse en facilitadores que la integren reflexivamente, promoviendo el aprendizaje activo, autónomo y la resolución de problemas en los estudiantes."
     },
     {
-        "q": "Según a neurociencia, ¿en qué dimensión temporal opera el sistema límbico 0 emocional?",
+        "q": "Según a neurociencia, ¿en qué dimensión temporal opera el sistema límbico o emocional?",
         "a": "Opera fuertemente en la dimensión del pasado, ya que asocia y archiva experiencias previas (como recuerdos de dolor o de placer) para emitir instintivamente respuesta s de supervivencia en el momento presente que afectan el aprendizaje."
     },
     {
@@ -3274,11 +3274,11 @@ const window_data = [
         "a": "Está activando principalmente la dopamina (asociada al placer y motivación), la noradrenalina y la serotonina, sustancias que en conjunto conforman el circuito de recompensa (DAS)."
     },
     {
-        "q": "¿Qué caracteriza a los Cursos de Capacitac' ón dentro de los niveles de Formación Superior? 823 Los gobiernos autónomos departamentales y mun'cipales tienen atribuciones para dictar normas que garanticen accesibilidad para personas con discapacidad en diversos ámbitos. ¿Cuál de las siguientes opciones refleja correctamente uno 0 más de esos ámbitos?",
+        "q": "¿Qué caracteriza a los Cursos de Capacitac' ón dentro de los niveles de Formación Superior? 823 Los gobiernos autónomos departamentales y mun'cipales tienen atribuciones para dictar normas que garanticen accesibilidad para personas con discapacidad en diversos ámbitos. ¿Cuál de las siguientes opciones refleja correctamente uno o más de esos ámbitos?",
         "a": "La maestra o maestro de grado, con apoyo del centro de educación especial."
     },
     {
-        "q": "¿Cuál de las siguientes opciones es una función del Jefe(a) 0 Responsable de Carrera del nstituto?",
+        "q": "¿Cuál de las siguientes opciones es una función del Jefe(a) o Responsable de Carrera del nstituto?",
         "a": "Ante la falta de opciones para elegir, su función principal (según la normativa técnica boliviana) es planificar, organizar, coordinar y evalu ar el desarr ollo de las actividades académicas de su carrera, supervisando la aplicación de los planes de estudio y el desempeño docente."
     },
     {
@@ -3378,7 +3378,7 @@ const window_data = [
         "a": "De acuerdo con la normativa procesal penal boliviana (Ley N° 1173 de Abreviación Procesal Penal, aplicada en casos de la Ley N° 348), la etapa de investigación preliminar tiene un plazo base de veinte (20) días para reunir los elementos de convicción y pruebas, el cual puede ser ampliado excepcionalmente bajo control jurisdiccional."
     },
     {
-        "q": "El que utilice fuerza fisica, amenazas, intimidación, promesas, ofrecimiento o la concesión de un beneficio indebido para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio 0 la aportación de pruebas en procesos por delitos de corrupción. ¿A qué delito corresponde esta descripción?",
+        "q": "El que utilice fuerza fisica, amenazas, intimidación, promesas, ofrecimiento o la concesión de un beneficio indebido para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio o la aportación de pruebas en procesos por delitos de corrupción. ¿A qué delito corresponde esta descripción?",
         "a": "Corresponde al delito de \"Obstrucción de la Justicia\", tipificado y sancionado en la legislación boliviana por la Ley N° 004 de Lucha Contra la Corrupción (Marcelo Quiroga Santa Cruz)."
     },
     {
@@ -3386,7 +3386,7 @@ const window_data = [
         "a": "Termina encerrando a los jóvenes en un verdadero gueto social que los condena a la exc lusión, los impulsa a la rebelión y posiblemente a la violencia, desembocando así en una grave desigualdad social."
     },
     {
-        "q": "Desde el neuroaprendizaje, ¿cuál es el aspecto más relevante de a atención que todo docente debe considerar en su práctica pedagógica?",
+        "q": "Desde el neuroaprendizaje, ¿cuál es el aspecto más relevante de la atención que todo docente debe considerar en su práctica pedagógica?",
         "a": "El aspecto más relevante es que los periodos atencionales de los estudiantes tienen tiempos muy cortos de duración, por lo que el cerebro no e stá preparado para un flujo continuo de información y necesita obligatoriamente \"recreos cerebrales\" o pausas para oxigenarse y retomar la atención."
     },
     {
@@ -3592,7 +3592,7 @@ const window_data = [
     },
     {
         "q": "un equipo docente de una unidad educativa de La Paz debate sobre qué contenidos son fundamentales para comprender los procesos de enseñanza aprendizaje. Algunos priorizan únicamente las teorías del aprendizaje, otros solo los métodos de enseñanza. Según Sáez López en «Estilos de aprendizaje y métodos de enseñanza». ¿qué conjunto de contenidos debe abordarse de manera integral para una comprensión completa?",
-        "a": "Deben abordarse de manera integral las teorías, condiciones y tipos de aprendizaje, los estilos de a prendizaje, los métodos de enseñanza, el aprendizaje organizativo, los modelos de formación profesional y las estrategias de enseñanza."
+        "a": "Deben abordarse de manera integral las teorías, condiciones y tipos de aprendizaje, los estilos de la prendizaje, los métodos de enseñanza, el aprendizaje organizativo, los modelos de formación profesional y las estrategias de enseñanza."
     },
     {
         "q": "La decisión que se tome sobre las condiciones presentes en el proceso de enseñanza para un «aprendizaje efectivo« es de mucha importancia- El aprendizaje varía en función de su eficacia. En este contexto, ¿cuáles son las condiciones que pueden asegurar un buen aprendizaje?",
@@ -3607,7 +3607,7 @@ const window_data = [
         "a": "Ante la ausencia de opciones, la característica principal e s que facilita n el aprendizaje en red e interactivo (como el e -learning), permitiendo la conexión y el apoyo de actividades independientemente del tiempo, el lugar y el ritmo de los participantes."
     },
     {
-        "q": "El método de caso se refiere a un análisis completo de un hecho 0 prob ema real con la finalidad de conocerlo. interpretarlo. resolverlo. generar hipótesis. contrastar datos y reflexionar en el proceso. ¿Cuáles son los tres modelos en razón de sus propósitos?",
+        "q": "El método de caso se refiere a un análisis completo de un hecho o prob ema real con la finalidad de conocerlo. interpretarlo. resolverlo. generar hipótesis. contrastar datos y reflexionar en el proceso. ¿Cuáles son los tres modelos en razón de sus propósitos?",
         "a": "Los tres modelos son: 1) centrados en el análisis de casos, 2) centrados en la aplicación de principios, y 3) centrados en el entrenamiento (resolución de situaciones)."
     },
     {
@@ -3632,7 +3632,7 @@ const window_data = [
         "a": "Debe tomar en cuenta obligatoriamente las redes instintivas emocionales de sus estudiantes, es dec ir, sus cerebros reptiliano y mamífero (sistema límbico)."
     },
     {
-        "q": "¿Quiénes pueden realizar la solicitud de apertura y funcionamiento de Institutos de carácter fiscal y de convenio. de a Sede Central o Subsede?",
+        "q": "¿Quiénes pueden realizar la solicitud de apertura y funcionamiento de Institutos de carácter fiscal y de convenio. de la Sede Central o Subsede?",
         "a": "Según la normativa boliviana que rige a los Institutos Técnicos y Tecnológicos, la solicitud la pueden realiz ar las autoridades ejecutivas de los Gobiernos Autónomos Departamentales, Municipales, Autonomías Indígena Originario Campesinas, o las máximas autoridades u organizaciones sociales, públicas, eclesiásticas y ONGs (para los institutos de convenio)."
     },
     {
@@ -3668,7 +3668,7 @@ const window_data = [
         "a": "Corresponde al método de demostración."
     },
     {
-        "q": "El Objetivo del estudio de caso puede resumirse como la creación de una situación activa y participativa de enseñanza y aprendizaje en la que el tema refleja muy bien el mundo exterior. pues se trata de buscar la mejora en la capacidad del estudiante para identificar principios subyacentes, pensar rápidamente bajo presión y aplicar su visión para desentrañar un complejo nudo de relaciones y eventos, aprendiendo en situaciones nuevas. Una de las formas de plantear el caso busca la participación de fuentes externas para agregar nuevas dimensiones a la actividad de aprendizaje 0 ejemplos de la vida real de los profesionales, por eso puede resumirse como:",
+        "q": "El Objetivo del estudio de caso puede resumirse como la creación de una situación activa y participativa de enseñanza y aprendizaje en la que el tema refleja muy bien el mundo exterior. pues se trata de buscar la mejora en la capacidad del estudiante para identificar principios subyacentes, pensar rápidamente bajo presión y aplicar su visión para desentrañar un complejo nudo de relaciones y eventos, aprendiendo en situaciones nuevas. Una de las formas de plantear el caso busca la participación de fuentes externas para agregar nuevas dimensiones a la actividad de aprendizaje o ejemplos de la vida real de los profesionales, por eso puede resumirse como:",
         "a": "Puede resumirse como la forma de plantear casos de \"Invitar a profesores externos\"."
     },
     {
@@ -3692,7 +3692,7 @@ const window_data = [
         "a": "Porque las habilidades emocionales son imprescindibles para la inserción social, el crecimiento personal y profesional futuro de los estudiantes, y para alcanzar una madurez y solvencia adecuada que les permita integrarse en la sociedad y ser felices."
     },
     {
-        "q": "Desde el neuroaprendizaje. ¿cuál es la función central de a atención en el proceso de aprendizaje?",
+        "q": "Desde el neuroaprendizaje. ¿cuál es la función central de la atención en el proceso de aprendizaje?",
         "a": "Su función central es elegir qué estímulos vamos a captar, fijando la mente en aspectos relevantes de la realidad (foco de conciencia) e inhibiendo o prescindiendo de los estímul os irrelevantes, para evitar que la información llegue al cerebro de manera deformada o incompleta."
     },
     {
@@ -3708,7 +3708,7 @@ const window_data = [
         "a": "Generan respuestas para la supervivencia en base al \"archivo del dolor y archivo de placer\"."
     },
     {
-        "q": "Desde a perspectiva de a neurociencia, ¿por qué es importante trabajar estrategias de autoconocimiento desde temprana edad?",
+        "q": "Desde a perspectiva de la neurociencia, ¿por qué es importante trabajar estrategias de autoconocimiento desde temprana edad?",
         "a": "Es de suma importancia porque el autoconocimiento es una característica fundamental de las personas que gestionan su inteligenci a emocional, lo cual les permite aprender a manejar la frustración en el futuro."
     },
     {
@@ -3720,7 +3720,7 @@ const window_data = [
         "a": "Se estructura u organiza en torno a cinco capacidades fundamentales: autoconciencia, autor regulación, motivación, empatía y habilidades sociales."
     },
     {
-        "q": "El Docente del Instituto elabora y propone ensayos, artículos, manuales de práctica. prototipos, nstrument0S, aparatos 0 equipos, ¿con qué propósito especifico realiza dicha función?",
+        "q": "El Docente del Instituto elabora y propone ensayos, artículos, manuales de práctica. prototipos, nstrument0S, aparatos o equipos, ¿con qué propósito especifico realiza dicha función?",
         "a": "Con el propósito específico de contribuir activamente a la investigaci ón, a la innovación académica y al desarrollo científico y tecnológico de su área y de la institución."
     },
     {
@@ -3781,7 +3781,7 @@ const window_data = [
     },
     {
         "q": "En el marco del Reglamento General de Centros de Capacitación Artística e Institutos de Formación Artística, ¿cuál de las siguientes opciones define correctamente el Currículo?",
-        "a": "Al carecer de las opciones en su pregunta, se define normativamente como el i nstrumento pedagógico y operativo que articula, planifica y orienta los objetivos, contenidos, metodologías y procesos de evaluación para la formación artística integral."
+        "a": "Al carecer de las opciones en su pregunta, se define normativamente como el i instrumento pedagógico y operativo que articula, planifica y orienta los objetivos, contenidos, metodologías y procesos de evaluación para la formación artística integral."
     },
     {
         "q": "¿Para qué sirve la estrategia del «Botiquín de primeros auxilios emociona es» en el aula según la neurociencia?",
@@ -3808,7 +3808,7 @@ const window_data = [
         "a": "Son las maestras y los maestros de aula."
     },
     {
-        "q": "En el marco de apoyo a estudiantes con talento extraordinario, ¿quiénes son responsables de los procesos de detección de señales de a erta?",
+        "q": "En el marco de apoyo a estudiantes con talento extraordinario, ¿quiénes son responsables de los procesos de detección de señales de la erta?",
         "a": "Son responsables las maestras y maestros de aula de las Unidades Educativas del Subsistema de Educación Regular."
     },
     {
@@ -3816,7 +3816,7 @@ const window_data = [
         "a": "Corresponde al perfil del maestro de apoyo a estudiantes con discapacidad visual."
     },
     {
-        "q": "Los profesionales que cumplen la función especifica de coordinar, Orientar, sensibilizar e informar a las madres y padres de familia 0 tutores, autoridades e instituciones comprometidas con la educación inclusiva relacionadas con el acompañamiento familiar pertinente y adecuado en estudiantes con condición o trastornos del espectro autista, son:",
+        "q": "Los profesionales que cumplen la función especifica de coordinar, Orientar, sensibilizar e informar a las madres y padres de familia o tutores, autoridades e instituciones comprometidas con la educación inclusiva relacionadas con el acompañamiento familiar pertinente y adecuado en estudiantes con condición o trastornos del espectro autista, son:",
         "a": "Son las maestras, maestros y profesionales de apoyo educativo a estudiantes con Trastornos del Espectro Autista."
     },
     {
@@ -3832,7 +3832,7 @@ const window_data = [
         "a": "Porque generar un entorno de bienestar y emociones positivas permite destrabar y abrir las redes in stintivas emocionales (la amígdala) de los estudiantes, dejando que la información fluya libremente hacia las redes cognitivas racionales para consolidar el aprendizaje."
     },
     {
-        "q": "¿Qué distingue a los videojuegos de a gamificación del aprendizaje y en qué radica la diferencia entre ambos enfoques?",
+        "q": "¿Qué distingue a los videojuegos de la gamificación del aprendizaje y en qué radica la diferencia entre ambos enfoques?",
         "a": "La diferencia radica en que la gamificación aplica mecánicas, dinámicas y elementos de juego (como puntos o recompensas) en un entorno formativo tradicional para motivar y guiar la conducta, mientras que el aprendizaje basado en videojuegos (o el uso educativo de los mismos) emplea un juego estructurado e inmersivo en su totalidad como el medio para que el estudiante interactúe, descubra y adquiera conocimientos o habilidades."
     },
     {
@@ -3876,7 +3876,7 @@ const window_data = [
         "a": "Impide la flexibilidad necesaria para dar respuesta a los problemas imprevistos, a las distintas posiciones y a los diversos modos de hacer bien las cosas."
     },
     {
-        "q": "Un docente observa que algunos estudiantes. tras reprobar un examen. concluyen que no tienen capacidad y abandonan el esfuerzo, mientras otros asumen que deben esforzarse más. Según las teorías de a motivación relacionadas con el aprendizaje, ¿qué explica esta diferencia entre ambos grupos?",
+        "q": "Un docente observa que algunos estudiantes. tras reprobar un examen. concluyen que no tienen capacidad y abandonan el esfuerzo, mientras otros asumen que deben esforzarse más. Según las teorías de la motivación relacionadas con el aprendizaje, ¿qué explica esta diferencia entre ambos grupos?",
         "a": "Se explica por el \"locus de control\" (interno o externo) de cada estudiante; quienes tienen un locus interno atribuyen sus resultados a su propio control, esfuerzo y autonomía (motivándose a mejorar), mientras que los del locus externo creen que sus resultados dependen de factores fuera de su control como la falta de capacidad o la suerte (llevándolos al abandono)."
     },
     {
@@ -3916,7 +3916,7 @@ const window_data = [
         "a": "Necesitan hacer que cada tema sea interesante y útil, satisfacer sus necesidades básicas (fisiológicas, de seguridad, pertenencia y estima), fom entar su autoconfianza y autodirección, y proponer objetivos que sean desafiantes pero alcanzables."
     },
     {
-        "q": "¿Qué características tiene la segunda dimensión de a enseñanza efectiva de Lowman, referida a la relación interpersonal denominada  del maestro hacia los estudiantes»?",
+        "q": "¿Qué características tiene la segunda dimensión de la enseñanza efectiva de Lowman, referida a la relación interpersonal denominada  del maestro hacia los estudiantes»?",
         "a": "Se caracteriza por el interés genuino que muestra el profesor en los estud iantes como individuos (conocer sobre ellos), por alentarlos y permitir el pensamiento independiente, y por estar accesible y disponible para responder a sus preguntas tanto dentro como fuera del aula."
     },
     {
@@ -3940,7 +3940,7 @@ const window_data = [
         "a": "Al no encontrarse especificado en los textos adjuntos, desde el conocimiento psicológico general, manifiestan problemas como la adicción o dependencia tecnológica, el a islamiento social, altos niveles de ansiedad, alteraciones en el sueño, sedentarismo, y el deterioro en el rendimiento académico, laboral y en sus relaciones intrafamiliares."
     },
     {
-        "q": "Según el texto de Innovación Educativa. en el análisis de los obstáculos para el cambio en as organizaciones educativas. ¿qué factores corresponden a la dimensión micropolitica nstitucional?",
+        "q": "Según el texto de Innovación Educativa. en el análisis de los obstáculos para el cambio en as organizaciones educativas. ¿qué factores corresponden a la dimensión micropolitica institucional?",
         "a": "Corresponden a los factores referidos a las relaciones y el u so del poder (formal e informal), la defensa de intereses particulares, las interacciones a nivel de grupo, el mantenimiento del control por parte de los directores y los conflictos en la toma de decisiones."
     },
     {
@@ -4037,7 +4037,7 @@ const window_data = [
         "a": "Se determina según los principios de la normativa educativa boliviana y la convivencia pacífica."
     },
     {
-        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos' menciona que se da un giro en los programas de prevención fisica situacional 0 basada en la exclusión esco ar hacia enfoques más integrales. a través de políticas y programas que. junto a la atención de los problemas individuales del alumnado. tienen en cuenta las necesidades de los docentes y de las familias. estableciendo vínculos de colaboración entre:",
+        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos' menciona que se da un giro en los programas de prevención fisica situacional o basada en la exclusión esco ar hacia enfoques más integrales. a través de políticas y programas que. junto a la atención de los problemas individuales del alumnado. tienen en cuenta las necesidades de los docentes y de las familias. estableciendo vínculos de colaboración entre:",
         "a": "Estableciendo vínculos de colaboración entre los centros educativos y la comunid ad."
     },
     {
@@ -4109,7 +4109,7 @@ const window_data = [
         "a": "Se hacen presentes a través de reacciones psicofisiológicas inevitables (procesadas por impulsos electroquímicos en el sistema nervioso) cuando el individuo percibe estímulos s ensoriales del entorno, preparando al cuerpo para una reacción rápida y adaptativa."
     },
     {
-        "q": "El Protoco 0 de Prevención y Actuación ante casos de violencia en unidades educat'vas establece como propósito central sensibilizar y salvaguardar la integridad de las y los estudiantes. ¿Qué elementos lo distinguen de otros instrumentos normativos del ámbito educativo?",
+        "q": "El Protoco o de Prevención y Actuación ante casos de violencia en unidades educat'vas establece como propósito central sensibilizar y salvaguardar la integridad de las y los estudiantes. ¿Qué elementos lo distinguen de otros instrumentos normativos del ámbito educativo?",
         "a": "Lo distingue su carácter eminentemente operativo, ya que proporciona \"Rutas de actuación\" estandarizadas que guían paso a paso a la comunidad educativa sobre los procedimientos exactos de detección, contención, denuncia, derivación y segui miento ante casos específicos de violencia."
     },
     {
@@ -4178,7 +4178,7 @@ const window_data = [
         "a": "Lo promueven y fortalecen la interdependencia positiva entre los estudiantes, la responsabilidad individual, la interacción cara a cara, el desarrollo de habilidades interpersonales y la evaluación y reflexión grupal constante."
     },
     {
-        "q": "Ca «situación» formal 0 informal es un aspecto importante en el proceso de aprendizaje efectivo. El tipo de situación disponible para el alumno determina a calidad y velocidad del aprendizaje. ¿Cuáles son las características de las situaciones informales?",
+        "q": "Ca «situación» formal o informal es un aspecto importante en el proceso de aprendizaje efectivo. El tipo de situación disponible para el alumno determina a calidad y velocidad del aprendizaje. ¿Cuáles son las características de las situaciones informales?",
         "a": "Se caracterizan por ocurrir de forma natural a través de las experiencias y el contacto con la vida cotidiana, fuera de una estructura instruccional rígida, dándose en el entorno familiar, al jugar, al explorar o durante las interaccion es sociales del d ía a día."
     },
     {
@@ -4186,7 +4186,7 @@ const window_data = [
         "a": "La diferencia sustancial radica en que una simple mejora o ajuste mantiene intactas las bases del modelo tradicional (corriendo el riesgo de volverse rutina), mientras que la innovación implica una transformación profunda que altera el sentido de las prácticas, las creencias, las relaciones y el paradigma pedagógico en la institución."
     },
     {
-        "q": "El texto \"Convivencia escolar y resolución pacifica de conflictos' refiere que son las partes 'nvolucradas directamente en el conflicto las que se Obligan a encontrar una solución pacifica a sus diferencias, renunciando a un arbitraje 0 a la imposición de una solución externa De acuerdo con estos criterios. la mediación se basa en principios, uno de ellos es:",
+        "q": "El texto \"Convivencia escolar y resolución pacifica de conflictos' refiere que son las partes 'nvolucradas directamente en el conflicto las que se Obligan a encontrar una solución pacifica a sus diferencias, renunciando a un arbitraje o a la imposición de una solución externa De acuerdo con estos criterios. la mediación se basa en principios, uno de ellos es:",
         "a": "Al no contar con las opciones exactas, la mediación se basa en la presencia de una tercera persona que no ejerce ningún poder (independiente e impa rcial), fundamentando el proceso en las prácticas comunicativas, en una negociación colaboradora o razonada, y exigiendo siempre una posición neutral por parte del mediador."
     },
     {
@@ -4206,7 +4206,7 @@ const window_data = [
         "a": "La persona sometida al proceso (el maestro, maestra o trabajador de la educación encauzado), ya que el derecho a la defensa en un proceso disciplinario es ineludible."
     },
     {
-        "q": "Según el texto \"Convivencia escolar y resolución pacifica de conflictos', el consenso es una forma de resolver los conflictos a través de a cual:",
+        "q": "Según el texto \"Convivencia escolar y resolución pacifica de conflictos', el consenso es una forma de resolver los conflictos a través de la cual:",
         "a": "Las partes en conflicto intercambian sus preocupaciones y necesidades, y tratan de encontrar un acuerdo que sea aceptado de manera mutua por ambas partes."
     },
     {
@@ -4358,7 +4358,7 @@ const window_data = [
         "a": "Las prácticas educativas y la gest ión escolar."
     },
     {
-        "q": "Respecto a las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿cuál de las siguientes condiciones debe cumplirse obligatoriamente cuando los estudiantes desarrollan acciones de prevención de la violencia desde su perspectiva al interior de a unidad educativa?",
+        "q": "Respecto a las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿cuál de las siguientes condiciones debe cumplirse obligatoriamente cuando los estudiantes desarrollan acciones de prevención de la violencia desde su perspectiva al interior de la unidad educativa?",
         "a": "Debe cumplirse obligatoriamente que dichas acciones no generen erogación de recursos económicos y que se realicen en estrecha coordinación con los centros y gobiernos estudiantiles."
     },
     {
@@ -4426,7 +4426,7 @@ const window_data = [
         "a": "Se caracteriza por la tensión y el riesgo de utilizar la tecnología únicamente como un nivel de sustitución (para hacer lo  mismo que en el modelo tradicional de transmisión), frente a la necesidad de otorgarle un valor transformador e interactivo; un ejemplo de este reto es el desafío de evitar la distracción pasiva para lograr, en cambio, la habilidad de buscar, filtrar y usar esa información de forma crítica, interactiva y colaborativa,."
     },
     {
-        "q": "La variedad intraindividual se distingue de a interindividual en que la primera alude fundamentalmente a:",
+        "q": "La variedad intraindividual se distingue de la interindividual en que la primera alude fundamentalmente a:",
         "a": "La primera alude fundamentalmente a la diversidad interna, mutación e inconstancia que experimenta un mismo sujeto en su forma de comportarse y en sus capacidades a lo largo del tiempo, mientras que la segunda se refiere a las diferencias y la heterogeneidad existente entre distintas personas."
     },
     {
@@ -4458,7 +4458,7 @@ const window_data = [
         "a": "De acuerdo con la normativa boliviana (Ley N° 348), se prohíbe de manera expresa la exigencia de la prueba de embara zo como requisito para el acceso, ascenso o estabilidad en un puesto de trabajo."
     },
     {
-        "q": "Respecto al rol de a sociedad y del individuo frente a las desigualdades informativas y de calidad de vida, ¿cuál de las siguientes afirmaciones refleja correctamente el planteamiento del texto?",
+        "q": "Respecto al rol de la sociedad y del individuo frente a las desigualdades informativas y de calidad de vida, ¿cuál de las siguientes afirmaciones refleja correctamente el planteamiento del texto?",
         "a": "El texto plantea de manera general que, ante el aumento de las desigualdades, la sociedad y el individuo deben pujar por el resurgimiento de otros valores, de otros conocimientos y de una nueva idea de calidad de vida y bienestar, rescatando el sentido de una formación general humanista."
     },
     {
@@ -4482,7 +4482,7 @@ const window_data = [
         "a": "Al no contar con las opciones en su pregunta, la respuesta precisa es que estos criterios (epistemológico, socioideológico , psicológico y pedagógico) deben interpretarse como un marco abierto para la discusión y no como una simple lista técnica para aplicar, entendiendo que la selección de contenidos es siempre una opción cultural profundamente ideológica."
     },
     {
-        "q": "Según la definición de violencia sexual realizada por UNICEF un adulto para involucrar a una niña 0 un niño en actividades sexuales 0 erotizadas de cualquier índole, puede utilizar las siguientes estrategas:",
+        "q": "Según la definición de violencia sexual realizada por UNICEF un adulto para involucrar a una niña o un niño en actividades sexuales o erotizadas de cualquier índole, puede utilizar las siguientes estrategas:",
         "a": "De acuerdo con UNICEF, el adulto puede utilizar estrategias como la seducción, el chantaje, la amenaza, la manipulación psicológica y/o el uso de la fuerza física."
     },
     {
@@ -4494,7 +4494,7 @@ const window_data = [
         "a": "Operan en contra las viejas creencias y prácticas arraigadas, el miedo a abandonar las rutinas establecidas y, fundamentalme nte, las relaciones de poder o \"micropolíticas\" mediante las cuales los individuos o grupos buscan mantener el control y proteger sus propios intereses."
     },
     {
-        "q": "Según 3ieh (2003), mencionado en el texto \"Convivencia escolar y resolución pacifica de conflictos- ¿cuá es son las tres actuaciones que deben incluirse en cua quier proyecto integral de Educación para la Cu tura de Paz?",
+        "q": "Según 3ieh (2003), mencionado en el texto \"Convivencia escolar y resolución pacifica de conflictos- ¿cuáles son las tres actuaciones que deben incluirse en cua quier proyecto integral de Educación para la Cu tura de Paz?",
         "a": "Aunque el texto cita a Biehl en la bibliografía sin detallar explícitamente su postulado en los fragmentos, de acuerdo con los modelos ecológicos integrales descritos en el documento, estas actuaciones son: la prevención (provención ) frente a la violencia, la resolución o negociación pacífica de los conflictos (mediación), y la sanción o reparación frente a las conductas."
     },
     {
@@ -4502,7 +4502,7 @@ const window_data = [
         "a": "Está siendo ignorada la condición de \"Pertenencia y configuración\", la cual establece que la repetición, la práctica o el ejercicio no resultarán en un aprendiza je efectivo a menos que se forme una conexión o estructura significativa que le dé sentido a lo aprendido."
     },
     {
-        "q": "Cuando en el Reglamento para el Fortalecimiento de a Educación Inclusiva en el SEP —Modalidad Indirecta, habla sobre la \"capacidad de Orientar en la resolución de conflictos en instituciones 0 comunidades educativas renuentes a la inclusión de personas con discapacidad visual\", se hace referencia a:",
+        "q": "Cuando en el Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP —Modalidad Indirecta, habla sobre la \"capacidad de Orientar en la resolución de conflictos en instituciones o comunidades educativas renuentes a la inclusión de personas con discapacidad visual\", se hace referencia a:",
         "a": "Se hace referencia a una de las competencias y aptitudes requeridas dentro del \"Perfil del maestro de apoyo a estudiantes con discapacidad visual\"."
     },
     {
@@ -4518,7 +4518,7 @@ const window_data = [
         "a": "El mecanismo específico es el monopolio de la información qu e ejerce el libro de texto, el cual se convierte en el último reductor de la experiencia en las aulas, limitando las posibilidades de interactuar con otras formas, funciones y materiales de lectura mediante un formato estandarizado e inevitable."
     },
     {
-        "q": "Según el marco deinnovación educativa de a UNESCO. ¿qué condic 'ón distingue a una innovación que impacta genuinamente en la calidad educativa de una mejora escolar incremental?",
+        "q": "Según el marco deinnovación educativa de la UNESCO. ¿qué condic 'ón distingue a una innovación que impacta genuinamente en la calidad educativa de una mejora escolar incremental?",
         "a": "Se distingue en que la innovación no es una simple mejora o ajuste rutinari o, sino una transformación profunda y deliberada que incide en algún aspecto estructural de la educación y supera el paradigma tradicional academicista."
     },
     {
@@ -4630,7 +4630,7 @@ const window_data = [
         "a": "La pena máxima es de seis años de privación de libertad."
     },
     {
-        "q": "Una maestra de secundaria. al iniciar cada clase. comparte con sus estudiantes su genuina pasión por la materia. celebra los descubrimientos y transmite alegría al enseñar. Según los principios psicológicos de a enseñanza, ¿qué efecto primordial genera esta actitud docente en el proceso de aprendizaje?",
+        "q": "Una maestra de secundaria. al iniciar cada clase. comparte con sus estudiantes su genuina pasión por la materia. celebra los descubrimientos y transmite alegría al enseñar. Según los principios psicológicos de la enseñanza, ¿qué efecto primordial genera esta actitud docente en el proceso de aprendizaje?",
         "a": "Genera un efecto altamente motivador que ayuda a los estudiantes a disfrutar de la clase, mejorando significativamente su compromiso intelectual y estimulando la motivación intrínseca para aprender."
     },
     {
@@ -4654,7 +4654,7 @@ const window_data = [
         "a": "Está poniendo e n práctica el conocimiento curricular y didáctico (específicamente en la fase de diseño y planificación del currículum)."
     },
     {
-        "q": "¿Qué organismo internacional considera que a violencia contra niñas. niños y adolescentes es un problema de salud pública?",
+        "q": "¿Qué organismo internacional considera que la violencia contra niñas. niños y adolescentes es un problema de salud pública?",
         "a": "La Organización Mundial de la Salud (OMS)."
     },
     {
@@ -4671,7 +4671,7 @@ const window_data = [
         "answer": ""
     },
     {
-        "q": "El siguiente enunciado: \"reconoce la importancia primordial de la familia, incluida la familia extensa, en la atención y protección del niño y en la prevención de la violencia. Sin embargo, reconoce también que la mayor parte de los actos de violencia se produce en el ámbito familiar y que, por consiguiente, es preciso adoptar medidas de intervención y apoyo cuando los niños sean victimas de las dificultades y penurias sufridas 0 generadas en las familias, extraído de la \"Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", corresponde a:",
+        "q": "El siguiente enunciado: \"reconoce la importancia primordial de la familia, incluida la familia extensa, en la atención y protección del niño y en la prevención de la violencia. Sin embargo, reconoce también que la mayor parte de los actos de violencia se produce en el ámbito familiar y que, por consiguiente, es preciso adoptar medidas de intervención y apoyo cuando los niños sean victimas de las dificultades y penurias sufridas o generadas en las familias, extraído de la \"Guía para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", corresponde a:",
         "a": "Corresponde a la Observación General Nº 13 del Comité de los Derechos del Niño de las Naciones Unidas."
     },
     {
@@ -4715,7 +4715,7 @@ const window_data = [
         "a": "El Reglamento de Faltas y Sanciones tipifica como faltas muy graves conductas como: la reincidencia voluntaria en faltas graves, acoso sexual, estupro, violencia o intimidación física y psíquica, venta de exámenes, y la malversación de fondos del establecimiento."
     },
     {
-        "q": "En el documento \"Convivencia escolar y resolución pacifica de conflictos\", Cortina (1997), siguiendo a Kant, examina la resolución de los conflictos desde tres aspectos 0 imperativos. El principio de prudencia implica:",
+        "q": "En el documento \"Convivencia escolar y resolución pacifica de conflictos\", Cortina (1997), siguiendo a Kant, examina la resolución de los conflictos desde tres aspectos o imperativos. El principio de prudencia implica:",
         "a": "Implica valorar las consecuencias d e las posibles salidas del conflicto con la finalidad de obtener tanto la felicidad personal como también el bienestar de los demás."
     },
     {
@@ -4731,7 +4731,7 @@ const window_data = [
         "a": "Consiste en generar una desconexión artificial entre el dominio del conocimiento académico ( los contenidos científicos) y la práctica didáctica, reduciendo la pedagogía a un simple complemento técnico en lugar de formar profesionales reflexivos capaces de integrar ambas dimensiones."
     },
     {
-        "q": "¿Qué formas de codificación de a experiencia humana se mencionan como medios para comunicar y transmitir la cultura?",
+        "q": "¿Qué formas de codificación de la experiencia humana se mencionan como medios para comunicar y transmitir la cultura?",
         "a": "Se mencionan a las imágenes, las fuentes escritas (como periódicos, revistas y libros escolares o no escolares), las fuent es de sonido y los objetos."
     },
     {
@@ -4767,7 +4767,7 @@ const window_data = [
         "a": "Se distingue en que la innovación no es una simple mejora, ajuste pasajero o n ovedad rutinaria, sino una transformación profunda que incide en algún aspecto estructural de la educación y de la institución para generar cambios significativos en la calidad del aprendizaje."
     },
     {
-        "q": "Un maestro impulsa cambios en su práctica pedagógica que Llego se replican en otras nstituciones y eventualmente inf uyen en la política educativa nacional. De las siguientes opciones. ¿cuál describe con mayor precisión a naturaleza de este proceso?",
+        "q": "Un maestro impulsa cambios en su práctica pedagógica que Llego se replican en otras instituciones y eventualmente inf uyen en la política educativa nacional. De las siguientes opciones. ¿cuál describe con mayor precisión a naturaleza de este proceso?",
         "a": "Al carecer de las opciones específicas para elegir, este proceso describe un movimiento de \"innovación desde la base\" (o de abajo hacia arriba), en el que las experiencias innovadoras surgidas en el aula logran sistematizarse, dinamiz ar el cambio educativo y escalar hasta orientar y aportar al cumplimiento de las políticas y metas educativas nacionales."
     },
     {
@@ -4779,7 +4779,7 @@ const window_data = [
         "a": "Una técnica muy amplia, que consiste en la intervención de un tercero (un individuo, un equipo, etc.) que"
     },
     {
-        "q": "Según los datos presentados por Gimeno Sacristán sobre el uso de la biblioteca escolar en secundaria, ¿qué conclusión pedagógica se puede extraer respecto a la formación en competencias de búsqueda y uso de a información del alumnado?",
+        "q": "Según los datos presentados por Gimeno Sacristán sobre el uso de la biblioteca escolar en secundaria, ¿qué conclusión pedagógica se puede extraer respecto a la formación en competencias de búsqueda y uso de la información del alumnado?",
         "a": "Se concluye que ex iste una severa carencia formativa debido a una fuerte dependencia del libro de texto, ya que la inmensa mayoría del profesorado no acude a la biblioteca con sus alumnos, no la usa en horas de clase y no programa actividades para enseñarles a utilizar fuen tes de información diversas."
     },
     {
@@ -4807,7 +4807,7 @@ const window_data = [
         "a": "Thorndike planteó principalmente tres leyes fundamentales: la Ley del Efecto (las acciones seguidas de resultados satisfactorios tienen mayor probabilidad de repetirse), la Ley del Ejercicio (la práctica constant e fortalece el aprendizaje y el desuso lo debilita) y la Ley de la Disposición (la preparación o motivación física y mental es imprescindible para que el aprendizaje ocurra de forma efectiva)."
     },
     {
-        "q": "John Stuart Mill sugeria que «la naturaleza humana no es una máquina que se construye según un modelo y dispuesta a hacer exactamente el trabajo que le sea prescrito, sino un árbol que necesita crecer y desarrollarse por todos los lados», Trasladada esta metáfora al debate sobre a esco aridad obligatoria 0 que queda cuestionado es:",
+        "q": "John Stuart Mill sugeria que «la naturaleza humana no es una máquina que se construye según un modelo y dispuesta a hacer exactamente el trabajo que le sea prescrito, sino un árbol que necesita crecer y desarrollarse por todos los lados», Trasladada esta metáfora al debate sobre a esco aridad obligatoria o que queda cuestionado es:",
         "a": "Queda cuestionado el modelo homogeneizador, estandarizador y disciplinante de la escuela tradicional, el cual intenta someter a todos los estudiantes (que son naturalmente diversos y singulares) a un patrón único de pensamiento y conducta, limitando su desarrollo integral."
     },
     {
@@ -4943,7 +4943,7 @@ const window_data = [
         "a": "Resulta esencial que la incorporación tecnológica esté obligatoriamente acompañada por una transformación prof unda en el enfoque mismo de la educación, un cambio en el rol del docente y la aplicación de estrategias de enseñanza activas centradas en el aprendizaje."
     },
     {
-        "q": "¿Qué aspectos fiscaliza y supervisa permanentemente el Ministerio de Educación, a través de a Dirección General de Educación Superior Técnica, Tecnológica. Lingüística y Artística, a los nstitutos de carácter fiscal, de convenio y privado?",
+        "q": "¿Qué aspectos fiscaliza y supervisa permanentemente el Ministerio de Educación, a través de la Dirección General de Educación Superior Técnica, Tecnológica. Lingüística y Artística, a los nstitutos de carácter fiscal, de convenio y privado?",
         "a": "Al no hallar se explícitamente en los documentos, de acuerdo a la normativa vigente del Estado Plurinacional de Bolivia, fiscaliza y supervisa permanentemente la gestión institucional, académica, administrativa y de infraestructura, así como el cumplimiento de la normativa legal en estos institutos."
     },
     {
@@ -4967,7 +4967,7 @@ const window_data = [
         "a": "Se reconoce como irresuelta la profunda contradicción y tensión entre la aplicación de un modelo o currículum común, normativo e igualador fre nte a la ineludible realidad de acoger y dar respuesta a la enorme diversidad social, cultural y de capacidades de los estudiantes."
     },
     {
-        "q": "El arte de enseñar requiere un alto grado de flexibilidad y adaptación que va mucho más allá de a aplicación mecánica de los procedimientos paso a paso. Por eso es importante:",
+        "q": "El arte de enseñar requiere un alto grado de flexibilidad y adaptación que va mucho más allá de la aplicación mecánica de los procedimientos paso a paso. Por eso es importante:",
         "a": "Es importante la comprensión adecuada, la apreciación y la aplicación de los principios psicológicos, ya que estos ayudan a los profesores en la mejora general del proceso de enseñanza y aprendizaje."
     },
     {
@@ -5051,7 +5051,7 @@ const window_data = [
         "a": "Los principales elementos que interactúan para configurarlas son: la finalidad de la educación, el campo de conocimiento y los patrones culturales específicos de un territorio."
     },
     {
-        "q": "El siguiente enunciado: \"Garantizar el acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad visual matriculados o inscritos en los diferentes niveles y modalidades de Unidades, Centros e Instituciones Educativas de los Subsistemas de Educación Regular, Educación Superior y el Ámbito de Educación Alternativa, fiscales, de convenio o privadas, a través de la implementación de estrategias tiflológicas para el logro de a independencia y autonomía personal y sociali hace referencia a:",
+        "q": "El siguiente enunciado: \"Garantizar el acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad visual matriculados o inscritos en los diferentes niveles y modalidades de Unidades, Centros e Instituciones Educativas de los Subsistemas de Educación Regular, Educación Superior y el Ámbito de Educación Alternativa, fiscales, de convenio o privadas, a través de la implementación de estrategias tiflológicas para el logro de la independencia y autonomía personal y sociali hace referencia a:",
         "a": "Hace referencia expresa al \"Objetivo del proceso de apoyo educativo a estudiantes con discapacidad visual\" (Artículo 29 del Reglamento para el Fortalecimiento de la Educación Inclusiva en el SEP)."
     },
     {
@@ -5079,7 +5079,7 @@ const window_data = [
         "a": "Argumenta que es necesario revisarlos con el objeto de introducir oportunamente los conocimientos que exige tanto el avance científico contin uo como las cambiantes necesidades sociales."
     },
     {
-        "q": "¿Cuál de las siguientes situaciones se ajusta a 0 que Perrenoud denomina «trabajo de aficionado»?",
+        "q": "¿Cuál de las siguientes situaciones se ajusta a o que Perrenoud denomina «trabajo de aficionado»?",
         "a": "Se ajusta a aquella situación en la cual la práctica pedagógica transita obligatoriamente entre la preparación teórica o ideal del escenario y la constante improvisación que el maestro debe realizar para adaptarse durante la animación y gestión real del grupo en el aula."
     },
     {
@@ -5111,7 +5111,7 @@ const window_data = [
         "a": "Estas dos escalas son la Jerarquía Docente y la Jerarquía Admini strativa."
     },
     {
-        "q": "¿Qué efecto produjo la era industrial en a educación y de qué manera condicionó la formación de los estudiantes?",
+        "q": "¿Qué efecto produjo la era industrial en la educación y de qué manera condicionó la formación de los estudiantes?",
         "a": "Produjo la instauración de la racionalidad taylorista en la organización de la escuela (fragmentando el currículum y los tiempos), condicion ando la formación de los estudiantes a un esquema pasivo de \"aprender y repetir\" basado en la rapidez, la obediencia y el trabajo individualista de tareas segmentadas, preparándolos para un mundo laboral mecanicista."
     },
     {
@@ -5183,7 +5183,7 @@ const window_data = [
         "a": "Al no estar explícito en los documentos provistos, según la normativa educativa boliviana vigente para Institutos Técnico s y Tecnológicos, la instancia que emite y aprueba la autorización de traspaso es la Dirección Departamental de Educación a través de su Subdirección de Educación Superior."
     },
     {
-        "q": "En el área rural, los n'ños presentan bajo desarrollo de Oralidad, lectoescritura y corporalidad, carecen de espacios afectivos y están vinculados desde temprana edad a trabajo. ¿qué dimensión de a innovación educativa debe priorizarse en este contexto?",
+        "q": "En el área rural, los n'ños presentan bajo desarrollo de Oralidad, lectoescritura y corporalidad, carecen de espacios afectivos y están vinculados desde temprana edad a trabajo. ¿qué dimensión de la innovación educativa debe priorizarse en este contexto?",
         "a": "Debe priorizarse la dimensión pedagógica con un fuerte enfoque sociocultural adaptado al contexto de los estudiantes."
     },
     {
@@ -5203,7 +5203,7 @@ const window_data = [
         "a": "Estos tres niveles se denominan: la provención, el análisis y la negociación, y la mediac ión escolar."
     },
     {
-        "q": "De acuerdo con el texto 'Convivencia escolar y resoluc'ón pacifica de conflictos'. según Diaz Bazo y Thornton (2000), dentro de a fase de implantación se incluye:",
+        "q": "De acuerdo con el texto 'Convivencia escolar y resoluc'ón pacifica de conflictos'. según Diaz Bazo y Thornton (2000), dentro de la fase de implantación se incluye:",
         "a": "Se incluye la constitución de un equipo de trabajo (formado por miembros de la comunidad e ducativa) que coordine el desarrollo del proyecto, la ejecución de cada una de las fases del mismo y la información pública a los distintos sectores indirectamente implicados."
     },
     {
@@ -5219,7 +5219,7 @@ const window_data = [
         "a": "Al tratarse de normativa externa no citada íntegramente en los anexos, según el Código Penal de Bolivia, la agravante específica que debe consignarse es que el delito sea cometido por quien tenga a la víctima bajo su dependencia, autoridad, guarda o educación (como es la figura jerárquica y de poder de un docente o director) ."
     },
     {
-        "q": "¿Cuál es el procedimiento correcto cuando la parte denunciada por violencia fisica y psicológica es la propia directora 0 director de la unidad educativa?",
+        "q": "¿Cuál es el procedimiento correcto cuando la parte denunciada por violencia fisica y psicológica es la propia directora o director de la unidad educativa?",
         "a": "La denuncia puede ser presentada por cualquier maestra, maestro, padre, madre o estudiante de maner a directa ante la Defensoría de la Niñez y Adolescencia y a la Dirección Distrital Educativa correspondiente."
     },
     {
@@ -5239,7 +5239,7 @@ const window_data = [
         "a": "Los principales factores que dificultan los cambios son las prescripciones normativas rígidas de las autoridades educativas, la d olorosa resistencia del profesorado a abandonar viejas creencias y prácticas arraigadas, y las tensiones generadas por la micropolítica institucional."
     },
     {
-        "q": "El documento \"Convivencia escolar y resolución pacífica de conflictos- menciona que los alumnos introducen su cu tura juvenil en los centros educativos. una cultura caracterizada a veces por ciertos comportamientos denunciados y sentidos como conflictivos por el profesorado. del mismo modo que algunas culturas institucionales son sentidas por los alumnos como una presión anormal, que refuerza su desarraigo hacia:",
+        "q": "El documento \"Convivencia escolar y resolución pacífica de conflictos- menciona que los alumnos introducen su cultura juvenil en los centros educativos. una cultura caracterizada a veces por ciertos comportamientos denunciados y sentidos como conflictivos por el profesorado. del mismo modo que algunas culturas institucionales son sentidas por los alumnos como una presión anormal, que refuerza su desarraigo hacia:",
         "a": "Refuerza su desarraigo hacia la cultura escolar."
     },
     {
@@ -5267,7 +5267,7 @@ const window_data = [
         "a": "Desarrollaron proyectos centrados en las relaciones interpersonales, la resolu ción de conflictos y la mejora del medioambiente, intercambiando experiencias de solidaridad con el movimiento de los “niños/as de la calle” de Brasil."
     },
     {
-        "q": "Toda deuda pública interna 0 externa con plazo igua 0 mayor a un año debe ser contraida por:",
+        "q": "Toda deuda pública interna o externa con plazo igua o mayor a un año debe ser contraida por:",
         "a": "Al no hallarse esta información en los documentos adjuntos, de acuerdo con la normativa boliviana (Ley N° 1178 de Administración y Control Gubernamentales SAFCO ), debe ser contraída por la máxima autoridad del Sistema de Tesorería del Estado, por cuenta del Tesoro Nacional o de la entidad beneficiaria que asume la responsabilidad del servicio de la deuda."
     },
     {
@@ -5379,7 +5379,7 @@ const window_data = [
         "a": "Obstaculizan el cambio factores como las prescripciones y normativas rígidas de las autoridades, la falta de autonomía real, el aislamiento del trabajo docente y las interacciones 'micropolíticas' marcadas por conflictos de poder e intereses en la institución."
     },
     {
-        "q": "¿Qué relación implícita establece Feito entre el silencio del alumnado en el aula y la persistencia de ideas erróneas 0 prejuicios?",
+        "q": "¿Qué relación implícita establece Feito entre el silencio del alumnado en el aula y la persistencia de ideas erróneas o prejuicios?",
         "a": "Establece que el silencio impuesto en las metodologías transmisivas tradicionales impide el debate y la confrontación de p untos de vista, lo cual fortalece y consolida preconceptos, ideas erróneas y prejuicios de los estudiantes al no ser nunca expresados, discutidos ni corregidos públicamente."
     },
     {
@@ -5495,7 +5495,7 @@ const window_data = [
         "a": "Su obligación es intervenir inmediatamente con el fin de detener el ciclo de la violencia y proponer modos de resolución de conflictos por la vía pacífica, evitando ser un observador pasivo."
     },
     {
-        "q": "Cuando una maestra o maestro detecta en el dia a dia indicadores que sugieren que una niña, niño 0 adolescente está sufriendo algún tipo de violencia en el ámbito familiar 0 educativo, ¿cuál es la acción que debe realizarse?",
+        "q": "Cuando una maestra o maestro detecta en el dia a dia indicadores que sugieren que una niña, niño o adolescente está sufriendo algún tipo de violencia en el ámbito familiar o educativo, ¿cuál es la acción que debe realizarse?",
         "a": "Debe informar inmediatamente a la directora o al director de la unidad educativa para que se comunique el hecho a un familiar de confianza (no agresor) y se derive el caso a la Defensoría de la Niñez y Adolescencia."
     },
     {
@@ -5515,7 +5515,7 @@ const window_data = [
         "a": "Consisten en dinámicas cortas (de diez o quince segundos cada veinte minutos) que demandan movimiento del cuerpo o prácticas sencillas de humor para oxigenar el cerebro , despertar dopamina, nivelar estados emocionales y captar la atención."
     },
     {
-        "q": "¿Cuál es a finalidad de las medidas de protección respecto a un hecho de violencia contra las mujeres?",
+        "q": "¿Cuál es la finalidad de las medidas de protección respecto a un hecho de violencia contra las mujeres?",
         "a": "Tienen la finalidad de interrumpir y evitar que se repita la violencia, garantizando la vida, la integridad física, psicológica y sexual, y el bi enest ar de las mujeres víctimas y sus dependientes."
     },
     {
@@ -5539,7 +5539,7 @@ const window_data = [
         "a": "Comunicar sus sentimientos y expresar sus percepciones e ideas, que son el origen de sus diferencias."
     },
     {
-        "q": "Si una persona tiene la capacidad para explicar, enseñar. hablar 0 persuadir, ¿qué tipo de inteligencia posee según Gardner?",
+        "q": "Si una persona tiene la capacidad para explicar, enseñar. hablar o persuadir, ¿qué tipo de inteligencia posee según Gardner?",
         "a": "Posee la inteligencia \"Lingüística\" (o verbal -lingüística)."
     },
     {
@@ -5603,7 +5603,7 @@ const window_data = [
         "a": "Se ha acuñado el concepto de \"Aprendizaje Mejorado por Tecnología\" (TEL) o \"Innovación Educativa\", que i mplica trascender la simple dotación de equipos para transformar estructuralmente los enfoques pedagógicos y las prácticas de aprendizaje."
     },
     {
-        "q": "El abogado defensor toma conocimiento de que un director de unidad educativa fue denunciado penalmente por presunta violencia sexual contra una estudiante. Sin embargo, la Defensoría de a Niñez y Adolescencia aún no ha remitido la información sobre el avance del proceso penal. ¿Cuál debe ser la acción inmediata del abogado defensor ante esta situación?",
+        "q": "El abogado defensor toma conocimiento de que un director de unidad educativa fue denunciado penalmente por presunta violencia sexual contra una estudiante. Sin embargo, la Defensoría de la Niñez y Adolescencia aún no ha remitido la información sobre el avance del proceso penal. ¿Cuál debe ser la acción inmediata del abogado defensor ante esta situación?",
         "a": "Su acción inmediata es denunciar el hecho ante el Ministerio Público en un plazo máximo de 48 horas, formalizar la querella en las siguientes 72 horas y r ealizar el seguimiento respectivo del proceso penal."
     },
     {
@@ -5635,7 +5635,7 @@ const window_data = [
         "a": "Lo corrobora un \"Informe Multidisciplinario\" (o Informe de Eva luación Integral)."
     },
     {
-        "q": "Según el documento \"Convivencia escolar y resolución pacífica de conflictos-, es importante que la cultura del centro se caracterice por una coherencia entre las decisiones a tomar y la forma de alcanzarlas. a través de a creación de unos buenos canales de comunicación. ¿Cuáles son esos canales?",
+        "q": "Según el documento \"Convivencia escolar y resolución pacífica de conflictos-, es importante que la cultura del centro se caracterice por una coherencia entre las decisiones a tomar y la forma de alcanzarlas. a través de la creación de unos buenos canales de comunicación. ¿Cuáles son esos canales?",
         "a": "Son los canales de comunicación informativa, relacional y decisoria."
     },
     {
@@ -5647,7 +5647,7 @@ const window_data = [
         "a": "Debe iniciar inmediatamente el proceso disciplinario administrativo cont ra el presunto infractor, informar a la Dirección Departamental de Educación y coordinar la denuncia y derivación del caso con la Defensoría de la Niñez y Adolescencia o el Ministerio Público."
     },
     {
-        "q": "¿Cuál es la acción que debe ejecutar la Directora o el Director Distrital de Educación tras recibir el informe de la Directora o el Director de la unidad educativa sobre una falta grave relativa a violencia física, psicológica o la comisión de un delito de orden sexual por parte de un miembro del plantel?",
+        "q": "¿Cuál es la acción que debe ejecutar la Directora o el Director Distrital de Educación tras recibir el informe de la Directora o el Director de la unidad educativa sobre una falta grave relativa la violencia física, psicológica o la comisión de un delito de orden sexual por parte de un miembro del plantel?",
         "a": "Debe iniciar el respectivo proceso disciplinario hasta su culminación e informar a la Directora o al Director Departamental de Educación correspondiente sobre el hecho denunciado."
     },
     {
@@ -5807,7 +5807,7 @@ const window_data = [
         "a": "Al no encontrarse tipificado en las fuentes provistas, según la normativa boliviana (Ley N° 223), constituye cau sal de pérdida de beneficios el abandono, la violencia o el uso indebido de los recursos económicos (como la renta solidaria) destinados al bienestar de la persona con discapacidad por parte de su tutor o persona a cargo."
     },
     {
-        "q": "En el marco de las medidas de protección a victimas de violencia en el ámbito educativo, ¿qué combinación de acciones de la directora 0 el director y de las maestras 0 maestros refleja correctamente el protocolo de prevención y atención en casos de violencia?",
+        "q": "En el marco de las medidas de protección a victimas de violencia en el ámbito educativo, ¿qué combinación de acciones de la directora o el director y de las maestras o maestros refleja correctamente el protocolo de prevención y atención en casos de violencia?",
         "a": "Refleja que las maestras y maestros deben intervenir inmediatamente y comunicar el hecho a la directora o director, y esta autoridad debe a su vez comunicarlo a un familiar de confianza de la víctima (que no sea la persona agresora) para resguardar a la o el estudiante y coordinar la derivación del caso."
     },
     {
@@ -5863,7 +5863,7 @@ const window_data = [
         "a": "Propone tratar de resolver los conflictos basándose en lo s principios de la noviolencia a través de tres niveles consecutivos y en paralelo: la provención, el análisis y la negociación, y la mediación escolar (además de crear grupo en un ambiente de aprecio y confianza)."
     },
     {
-        "q": "De acuerdo al documento \"Convivencia Escolar y Resolución Pacifica de Conflictos•. las fases de a mediación no difieren de as otras técnicas de resolución de conflictos. No obstante, su singularidad reside en la:",
+        "q": "De acuerdo al documento \"Convivencia Escolar y Resolución Pacifica de Conflictos•. las fases de la mediación no difieren de as otras técnicas de resolución de conflictos. No obstante, su singularidad reside en la:",
         "a": "Reside en la creación, en el marco de cualquier org anización, de un sistema de comunicación y de relaciones más horizontal, de manera que se implanta una forma diferente de gestionar los conflictos."
     },
     {
@@ -5936,7 +5936,7 @@ const window_data = [
     },
     {
         "q": "Según la tabla de valoración del riesgo de la \"Guia para la Identificación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo\". ¿cuál de las siguientes opciones describe el nivel de riesgo MEDIO en la categoria \"omisión\"?",
-        "a": "El nivel de riesgo medio por omisión generalmente describe aquellas situaciones donde existe un  patrón de negligencia o descuido constante en la atención de las necesidades básicas, de desarrollo o educativas del estudiante que, sin poner en riesgo inminente su vida, afecta de manera negativa su bienestar integral y requiere atención e intervención i nstitucional."
+        "a": "El nivel de riesgo medio por omisión generalmente describe aquellas situaciones donde existe un  patrón de negligencia o descuido constante en la atención de las necesidades básicas, de desarrollo o educativas del estudiante que, sin poner en riesgo inminente su vida, afecta de manera negativa su bienestar integral y requiere atención e intervención i institucional."
     },
     {
         "q": "¿Cuál es el monto máximo de multa que puede aplicarse como sanción administrativa a un servidor público por responsabilidad administrativa?",
@@ -6079,11 +6079,11 @@ const window_data = [
         "a": "1) Detección, 2) Atención inmediata, 3) Derivación, 4) Seguimiento."
     },
     {
-        "q": "El Docente del Instituto implementa estrategias metodológicas apoyadas en las TICs. ¿cuá es la finalidad especifica de dicha función?",
+        "q": "El Docente del Instituto implementa estrategias metodológicas apoyadas en las TICs. ¿cuáles la finalidad especifica de dicha función?",
         "a": "Mejorar la calidad del proceso de enseñanza-aprendizaje y desarrollar competencias digitales y tecnológicas en los estudiantes."
     },
     {
-        "q": "De acuerdo a a \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", en la contrarreferencia 0 seguimiento, cuando los casos son derivados a las instancias de protección. la autoridad educativa debe dar seguimiento a las medidas de protección dictaminadas para la víctima (en el marco de su competencia) en el proceso judicial o administrativo. al interior de la institución educativa con el fin de:",
+        "q": "De acuerdo a a \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", en la contrarreferencia o seguimiento, cuando los casos son derivados a las instancias de protección. la autoridad educativa debe dar seguimiento a las medidas de protección dictaminadas para la víctima (en el marco de su competencia) en el proceso judicial o administrativo. al interior de la institución educativa con el fin de:",
         "a": "Garantizar el cumplimiento de las medidas y la protección continua de la víctima."
     },
     {
@@ -6091,7 +6091,7 @@ const window_data = [
         "a": "La formación, el acompañamiento continuo y la actitud receptiva de los docentes."
     },
     {
-        "q": "La directora 0 el director de la unidad educativa y/o centro de educación especial debe asegurarse de que todas las acciones que se efectúan en un proceso de intervención con la victima estén encaminadas a:",
+        "q": "La directora o el director de la unidad educativa y/o centro de educación especial debe asegurarse de que todas las acciones que se efectúan en un proceso de intervención con la victima estén encaminadas a:",
         "a": "Garantizar la protección, recuperación y la no revictimización del estudiante."
     },
     {
@@ -6099,7 +6099,7 @@ const window_data = [
         "a": "La lástima y la caridad (el enfoque es de derechos, no asistencialista)."
     },
     {
-        "q": "¿Cuál es la definición del objeto de a Ley General para personas con discapacidad?",
+        "q": "¿Cuál es la definición del objeto de la Ley General para personas con discapacidad?",
         "a": "OBJETO Y ALCANCE DE LA LEY 223 La Ley General para Personas con Discapacidad (Ley 223) es un hito histórico en los derechos humanos en Bolivia."
     },
     {
@@ -6139,11 +6139,11 @@ const window_data = [
         "a": "Este principio se basa en la perspectiva de género y en los aportes de autores especializados en cultura de paz mencionados en la normativa oficial."
     },
     {
-        "q": "Según la tabla de señales y consecuencias de la violencia a largo plazo en la adolescencia establecidas en la \"Guía para a Identificación y Denuncia de a Violencia Intrafamiliar en el Ámbito Educativo\", ¿cuál de los siguientes enunciados corresponde al área cognitiva?",
+        "q": "Según la tabla de señales y consecuencias de la violencia a largo plazo en la adolescencia establecidas en la \"Guía para a Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", ¿cuál de los siguientes enunciados corresponde al área cognitiva?",
         "a": "Corresponde a consecuencias como los trastornos del aprendizaje (dificultades en escritura, lectura, cálculo), la disminución del desempeño cognitivo en el ámbito escolar y generalizado, y alteraciones permanentes en las funciones ejecutivas del cerebro como la memoria, el autocontrol y la flexibilidad cognitiva."
     },
     {
-        "q": "Según el documento \"Convivencia escolar y resolución pacífica de conflictos\", la calidad de a convivencia educativa es un elemento decisivo en la configuración de la convivencia social. pues la comunidad educativa constituye un espacio único y privilegiado de formación y de ejercicio de a ciudadanía democrática De este modo, los centros educativos se convierten en lugares idóneos para:",
+        "q": "Según el documento \"Convivencia escolar y resolución pacífica de conflictos\", la calidad de la convivencia educativa es un elemento decisivo en la configuración de la convivencia social. pues la comunidad educativa constituye un espacio único y privilegiado de formación y de ejercicio de la ciudadanía democrática De este modo, los centros educativos se convierten en lugares idóneos para:",
         "a": "Porque tiene el enorme potencial de instaurar desde las"
     },
     {
@@ -6187,7 +6187,7 @@ const window_data = [
         "a": "Sugiere que los profesores deberían preocuparse mucho menos por \"enseñar la idea correcta\" y enfocarse en explicar y debat ir profundamente por qué la idea incorrecta está equivocada, ya que así los estudiantes logran consolidar un conocimiento mucho más seguro (esta propuesta corresponde a literatura educativa externa a los manuales entregados)."
     },
     {
-        "q": "El documento -Convivencia escolar y resolución pac•fica de conflictos- menciona que la comprensión de la violencia social 0 de la violencia juvenil requiere en su estudio. junto a una buena definición de las mismas. el auxilio de diversas disciplinas (etología ciencias biológicas. psicologia. sociología. ciencias políticas. criminología..) y la adopción de enfoques tanto:",
+        "q": "El documento -Convivencia escolar y resolución pac•fica de conflictos- menciona que la comprensión de la violencia social o de la violencia juvenil requiere en su estudio. junto a una buena definición de las mismas. el auxilio de diversas disciplinas (etología ciencias biológicas. psicologia. sociología. ciencias políticas. criminología..) y la adopción de enfoques tanto:",
         "a": "Requiere la adopción de enfoques tanto interdisciplinares como multidisciplinares, ya que abordar las causas de la violencia exige u n marco de estudio cooperativo entre distintas ciencias (información complementaria de sociología de la educación, externa a los textos)."
     },
     {
@@ -6272,7 +6272,7 @@ const window_data = [
     },
     {
         "q": "En el texto -Convivencia escolar y resolución pacifica de conflictos\", ¿qué autor señala: -un factor crucial para determinar la respuesta global favorable por parte de los alumnos a la mayoría de sus escuelas depende de en qué medida profesores y alumnos hayan logrado una serie de acuerdos no oficiales o treguas' que fijen los limites de conflicto permitidos para los integrantes de la comunidad escolar'?",
-        "a": "Aunque la cita literal y el autor no figuran en los fragmentos proporcionados, en la sociología de l a educación (por ejemplo, en los estudios de Peter Woods) se señala frecuentemente que las \"treguas\" o pactos implícitos entre docentes y estudiantes son esenciales para regular la conflictividad y sobrevivir en la cotidianidad escolar."
+        "a": "Aunque la cita literal y el autor no figuran en los fragmentos proporcionados, en la sociología de l la educación (por ejemplo, en los estudios de Peter Woods) se señala frecuentemente que las \"treguas\" o pactos implícitos entre docentes y estudiantes son esenciales para regular la conflictividad y sobrevivir en la cotidianidad escolar."
     },
     {
         "q": "Una maestra de biología de secundaria, antes de enseñar las partes de la célula. muestra a sus estudiantes un video general sobre cómo funciona una célula completa en el organismo. ¿Qué fundamento pedagógico Sustenta esta decisión didáctica?",
@@ -6311,7 +6311,7 @@ const window_data = [
         "a": "Según Díaz Bazo y Thornton (2000), cada proceso debe seguir seis etapas de base: fase previa, fase de preparación, fase de diseño, fase de implantación, fase evaluadora y fase de generalización."
     },
     {
-        "q": "Considerando el texto \"Convivencia escolar y resolución pacífica de conflictos\" y lo descrito en \"Planificando la acción\", como \"Diseñar el proyecto educativo. formulando los fundamentos teóricos de base, reconociendo los aspectos de a realidad del centro a mejorar, formulando los fines y objetivos generales, definiendo los rasgos del perfil de los destinatarios, concretando as líneas de acción prioritarias (propuesta curricular, propuesta de gestión y programas) y estableciendo los mecanismos e instrumentos de evaluación y revisión\", ¿a qué fase corresponde esta descripción?",
+        "q": "Considerando el texto \"Convivencia escolar y resolución pacífica de conflictos\" y lo descrito en \"Planificando la acción\", como \"Diseñar el proyecto educativo. formulando los fundamentos teóricos de base, reconociendo los aspectos de la realidad del centro a mejorar, formulando los fines y objetivos generales, definiendo los rasgos del perfil de los destinatarios, concretando as líneas de acción prioritarias (propuesta curricular, propuesta de gestión y programas) y estableciendo los mecanismos e instrumentos de evaluación y revisión\", ¿a qué fase corresponde esta descripción?",
         "a": "Esta descripción corresponde a la \"Fase de diseño\"."
     },
     {
@@ -6331,7 +6331,7 @@ const window_data = [
         "a": "Correspondería a una \"Falta grave\", ya que la normativa prohíbe y sancio na la coparticipación en la compra -venta de útiles y textos escolares en acuerdo con librerías o establecimientos comerciales."
     },
     {
-        "q": "una maestra 0 maestro recauda dineros provenientes de rifas y kermesses organizadas en la unidad educativa pero no rinde cuentas ni realiza los depósitos correspondientes ante las autoridades competentes. esta conducta se tipifica como:",
+        "q": "una maestra o maestro recauda dineros provenientes de rifas y kermesses organizadas en la unidad educativa pero no rinde cuentas ni realiza los depósitos correspondientes ante las autoridades competentes. esta conducta se tipifica como:",
         "a": "Esta conducta s e tipifica como una \"Falta muy grave\", al no rendir cuentas de dineros recaudados por actividades ni realizar los depósitos ante las autoridades competentes."
     },
     {
@@ -6431,7 +6431,7 @@ const window_data = [
         "a": "No existe confidencialidad cuando dichas operaciones y movimientos financieros son objeto de investigación por presuntos delitos de corrupción, debiendo las entidades financieras proporcionar toda la información requerida por las autoridades jurisdiccionales competentes (esta respuesta correspond e a la normativa legal boliviana, siendo información externa a los fragmentos provistos)."
     },
     {
-        "q": "¿En qué situación podrá extenderse en un radio territorial intermunicipal 0 interdistrital el apoyo educativo que desarrol an los maestros de apoyo en la Modalidad Indirecta?",
+        "q": "¿En qué situación podrá extenderse en un radio territorial intermunicipal o interdistrital el apoyo educativo que desarrol an los maestros de apoyo en la Modalidad Indirecta?",
         "a": "Podrá extenderse en situaciones donde exista inexistencia de Centros de Educac ión Especial en el municipio o distrito, por falta de acreditación en el área de atención requerida en dichos centros, o por situaciones de proximidad que favorezcan al estudiante en lugares dispersos o de difícil acceso."
     },
     {
@@ -6443,7 +6443,7 @@ const window_data = [
         "a": "Se denomina \"Atención\" (o estado atencional de \"Uptime\" al percibir información), siendo un dispositivo cognit ivo y proceso selectivo que responde ante un estímulo realizando foco de conciencia, lo cual permite que la información fluya desde el sistema reticular hacia el sistema límbico y la memoria."
     },
     {
-        "q": "En el marco de los principios psicológicos de la enseñanza ¿qué caracteriza la práctica de una maestra que, al iniciar cada sesión, comunica claramente a sus estudiantes los objetivos de a clase, anticipa lo que vendrá a continuación y organiza los contenidos según el nivel de desarrollo del grupo, considerando que la enseñanza es una actividad compleja que Obliga a combinar múltiples tareas simultáneamente?",
+        "q": "En el marco de los principios psicológicos de la enseñanza ¿qué caracteriza la práctica de una maestra que, al iniciar cada sesión, comunica claramente a sus estudiantes los objetivos de la clase, anticipa lo que vendrá a continuación y organiza los contenidos según el nivel de desarrollo del grupo, considerando que la enseñanza es una actividad compleja que Obliga a combinar múltiples tareas simultáneamente?",
         "a": "Se caracteriza por la aplicación del principio psicológico de \"Guiar al alumno\", cuyo fin es as egurar que los estudiantes conozcan los objetivos, sepan qué esperar a continuación y cuenten con una estructura u organización apropiada para su nivel de desarrollo."
     },
     {
@@ -6479,7 +6479,7 @@ const window_data = [
         "a": "Al carecer de esta descripción de funciones en los anexos, según la normativa general que regula la administración pública y de recursos humanos (información ext erna a las fuentes), debe realizar acciones de organización, supervisión, control de asistencia, evaluación de desempeño y asignación clara de funciones operativas para garantizar la eficiencia de su personal."
     },
     {
-        "q": "Según la Taxonomía de Bloom, un docente diseña una actividad en la que los estudiantes deben examinar un texto argumentativo, identificar las premisas ocultas, detectar falacias lógicas y extraer conclusiones sobre la intención del autor. ¿En qué nivel del dominio cognitivo se ubica predominantemente esta actividad y cuá es su característica definitoria?",
+        "q": "Según la Taxonomía de Bloom, un docente diseña una actividad en la que los estudiantes deben examinar un texto argumentativo, identificar las premisas ocultas, detectar falacias lógicas y extraer conclusiones sobre la intención del autor. ¿En qué nivel del dominio cognitivo se ubica predominantemente esta actividad y cuáles su característica definitoria?",
         "a": "Se ubica predominantemente en el nivel de \"Análisis\", cuya característica definitoria es el desglose de los materiales informativos en sus partes compo nentes, examinando e intentando entender su estructura organizativa para hacer inferencias, encontrar evidencias y desarrollar conclusiones."
     },
     {
@@ -6495,7 +6495,7 @@ const window_data = [
         "a": "Según los estudios pioneros de Paul Ekman (autor citado en la bibliografía de los textos sobre neuroaprend izaje), el maestro debe ser capaz de identificar las emociones básicas universales, las cuales son la alegría, la tristeza, el miedo, el  enojo o ira, la sorpresa y el asco o desagrado (el detalle exacto de la enumeración de estas seis emociones es información externa complementaria a la bibliografía citada)."
     },
     {
-        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" menciona que la variedad de facetas implica que la comprensión de a violencia social o de la violencia juvenil requiere en su estudio. junto a una buena definición de las mismas, el auxilio de diversas disciplinas. ¿Cuáles son estas disciplinas?",
+        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" menciona que la variedad de facetas implica que la comprensión de la violencia social o de la violencia juvenil requiere en su estudio. junto a una buena definición de las mismas, el auxilio de diversas disciplinas. ¿Cuáles son estas disciplinas?",
         "a": "Según la bibliografía de la materia y nuestro historial de conversación (información externa a los fragmentos actuales), la comprensión de este fenómeno requiere el auxilio de disciplinas com o la etología, las ciencias biológicas, la psicología, la sociología, las ciencias políticas y la criminología."
     },
     {
@@ -6523,7 +6523,7 @@ const window_data = [
         "a": "Se describen, respectivamente, los estilos de aprendizaje de los estudiantes sensoriales y de los estudiantes intuitivos."
     },
     {
-        "q": "David Kolb considera que en el proceso de aprendizaje podemos partir de una experiencia concreta 0 de una conceptualización abstracta cuando leemos acerca de algo: mientras que las experiencias que tengamos. concretas 0 abstractas, se transforman en conocimiento cuando reflexionamos y cuando experimentamos. ¿Qué tipos de estudiantes presenta esta descripción?",
+        "q": "David Kolb considera que en el proceso de aprendizaje podemos partir de una experiencia concreta o de una conceptualización abstracta cuando leemos acerca de algo: mientras que las experiencias que tengamos. concretas o abstractas, se transforman en conocimiento cuando reflexionamos y cuando experimentamos. ¿Qué tipos de estudiantes presenta esta descripción?",
         "a": "Esta descripción presenta cuatro tipos de estudiantes o actitudes frente al aprendizaje: el alumno activo (experiencia concreta), el alumno teórico (conceptualización abstracta), el alumno reflexivo (reflexión) y el alumno pragmático (experimentación)."
     },
     {
@@ -6619,7 +6619,7 @@ const window_data = [
         "a": "El objetivo de este manual es brindar a los docentes los conocimientos teóricos y las herramientas prácticas necesarias para trabajar y desarrollar eficazmente la habilidad de la resolución d e problemas con estudiantes de secundaria."
     },
     {
-        "q": "La motivación es la voluntad y esfuerzo para lograr una meta en particular. La motivación para dominar las tareas del aula se ve afectada por la naturaleza de la tarea de aprendizaje. las características de los estudiantes. la atmósfera de la clase y la personalidad del maestro. ¿Cuál es el propósito de a motivación?",
+        "q": "La motivación es la voluntad y esfuerzo para lograr una meta en particular. La motivación para dominar las tareas del aula se ve afectada por la naturaleza de la tarea de aprendizaje. las características de los estudiantes. la atmósfera de la clase y la personalidad del maestro. ¿Cuál es el propósito de la motivación?",
         "a": "El propósito de la motivación es dirigir la energía de  un grupo hacia canales constructivos, estimulando un interés genuino en un tema particular mediante la comprensión y canalización de los impulsos naturales de los estudiantes."
     },
     {
@@ -6635,7 +6635,7 @@ const window_data = [
         "a": "La finalidad del dictamen de responsabilidad ejecutiva es determinar si una autoridad ha desempeñado sus funciones con deficiencia o negligencia, con el propósito fundamental de recomendar sanciones como la suspensión o destitución del cargo para resguardar la institucionalidad y la correcta administración pública."
     },
     {
-        "q": "En el documento \"Convivencia escolar y resolución pacifica de conflictos\", Cortina (1997), siguiendo a Kant, examina la resolución de los conflictos desde tres aspectos 0 imperativos. El principio de moralidad implica:",
+        "q": "En el documento \"Convivencia escolar y resolución pacifica de conflictos\", Cortina (1997), siguiendo a Kant, examina la resolución de los conflictos desde tres aspectos o imperativos. El principio de moralidad implica:",
         "a": "El principio de moralidad implica la necesidad ineludible de encontrar soluciones justas para quienes se encuentran implicados en alguna situación conflictiva."
     },
     {
@@ -6663,7 +6663,7 @@ const window_data = [
         "a": "El conciliador es una persona neutral que asume una intervención mucho más activa que un mediador tradicional, ya que es quien aporta, elabora y propone directamente las soluciones para que estas sean examinadas y aceptadas por las partes enfrentadas."
     },
     {
-        "q": "Según el texto de Innovación Educativa en la experiencia del Carnaval Soloriental. los maestros incorporan autónomamente una propuesta pedagógica que vincula la actividad de aula con proyectos de a comunidad, ¿qué característica esencial define a este tipo de práctica?",
+        "q": "Según el texto de Innovación Educativa en la experiencia del Carnaval Soloriental. los maestros incorporan autónomamente una propuesta pedagógica que vincula la actividad de aula con proyectos de la comunidad, ¿qué característica esencial define a este tipo de práctica?",
         "a": "Se define por ser una práctica de profunda contextualización curricular, pertinencia y articulación con las matrices culturales del territorio, donde la innovación surge desde la iniciativa docente para brindar sentido social al aprendiz aje de los estudiantes superando el aislamiento escolar."
     },
     {
@@ -6683,7 +6683,7 @@ const window_data = [
         "a": "Porque la inteligencia emocional no es una característica innata ni un rasgo inamovible, sino una habilidad, y como tal , se puede aprender, entrenar y desarrollar activamente en las aulas."
     },
     {
-        "q": "En el marco del denominado «Cerebro profundo», un maestro necesita comprender qué estructura es responsable de evaluar el va or afectivo de los estímulos del aula y cómo esta nfluye en la disposición del estudiante para aprender. ¿Qué es la amigda a y cuá es su función principal?",
+        "q": "En el marco del denominado «Cerebro profundo», un maestro necesita comprender qué estructura es responsable de evaluar el va or afectivo de los estímulos del aula y cómo esta influye en la disposición del estudiante para aprender. ¿Qué es la amigda a y cuáles su función principal?",
         "a": "La amígdala es una estructura cerebral del sistema límbico que actúa como un sensor de emociones ante estímulos amenazantes; su función principal en el aprendizaje es alertar sobre el peligro (lucha o fuga) bloqueando el paso de la información hacia el cerebro racional (lóbulos prefrontales), o permitiéndolo si se genera un ambiente seguro de placer y bienestar."
     },
     {
@@ -6836,7 +6836,7 @@ const window_data = [
     },
     {
         "q": "En el año 2017. se calcularon 40.150 victimas de homicidio en un estudio que, por primera vez. incluyó cifras correspondientes a niñas, niños y adolescentes. ¿A qué rango de edad correspondian las victimas consideradas en dicho estudio, según a \"Guia para la Ident'ficación y Denuncia de Violencia Intrafamiliar en el Ámbito Educativo\"?",
-        "a": "Las víctimas consideradas en dicho estudio correspondían al rango de edad comprendido entre los 0 y los 17 años."
+        "a": "Las víctimas consideradas en dicho estudio correspondían al rango de edad comprendido entre los o y los 17 años."
     },
     {
         "q": "La motivación del maestro es muy importante, ya que afecta directamente a los estudiantes. ¿Cuáles de los siguientes e ementas corresponden a factores que afectan la motivación del maestro?",
@@ -6855,7 +6855,7 @@ const window_data = [
         "a": "Es conveniente la utilización de preguntas de desarrollo, ítems interpretativos, informes de investigaciones y proyectos."
     },
     {
-        "q": "El funcionario público extranjero o funcionario de una organización internacional pública que solicitare o aceptare, en forma directa o indirecta, un beneficio indebido que redunde en su propio provecho 0 en el de Otra persona 0 entidad, con el fin de que dicho funcionario actúe 0 se abstenga de actuar en el ejercicio de sus funciones. ¿A qué delito corresponde esta descripción?",
+        "q": "El funcionario público extranjero o funcionario de una organización internacional pública que solicitare o aceptare, en forma directa o indirecta, un beneficio indebido que redunde en su propio provecho o en el de Otra persona o entidad, con el fin de que dicho funcionario actúe o se abstenga de actuar en el ejercicio de sus funciones. ¿A qué delito corresponde esta descripción?",
         "a": "Corresponde al delito de cohecho pasivo transnacional (o soborno transnacional)."
     },
     {
@@ -6863,7 +6863,7 @@ const window_data = [
         "a": "Son los rasgos cognitivos, afectivos y fisiológicos que sirven como indicadores relativamente estables de cómo los alumnos perciben las interacciones y responden a sus ambientes de aprendizaje."
     },
     {
-        "q": "De acuerdo con el texto \"Convivencia escolar y resolución pacífica de conflictos•. a convivencia escolar que inspira la cu tura de paz no puede obviar el:",
+        "q": "De acuerdo con el texto \"Convivencia escolar y resolución pacífica de conflictos•. a convivencia escolar que inspira la cultura de paz no puede obviar el:",
         "a": "Una técnica muy amplia, que consiste en la intervención de un tercero (un individuo, un equipo, etc.) que"
     },
     {
@@ -6887,11 +6887,11 @@ const window_data = [
         "a": "Deben ser emitidos en un plazo máximo de cinco (5) días hábiles una vez concluido el periodo académico."
     },
     {
-        "q": "¿En qué plazo la Dirección Departamental de Educación debe emitir el Certificado de Capacitación a partir de a solic•tud realizada por la o el estudiante?",
+        "q": "¿En qué plazo la Dirección Departamental de Educación debe emitir el Certificado de Capacitación a partir de la solic•tud realizada por la o el estudiante?",
         "a": "Debe emitirlo en un plazo máximo de cinco (5) días hábiles a partir de la recepción de la solicit ud."
     },
     {
-        "q": "¿En qué plazo la Dirección Departamental de Educación debe emitir el Certificado de Capacitación a partir de a solic•tud realizada por el estudiante?",
+        "q": "¿En qué plazo la Dirección Departamental de Educación debe emitir el Certificado de Capacitación a partir de la solic•tud realizada por el estudiante?",
         "a": "Debe emitirlo en un plazo máximo de cinco (5) días hábiles a partir de la recepción de la solicitud."
     },
     {
@@ -6947,11 +6947,11 @@ const window_data = [
         "a": "Consiste en dejar de formar para tareas prefijadas y rutinarias, priorizando el aprendizaje por competencias que asegure la transferibilidad de los conocimientos para resolver problemas en situaciones novedosas e ine speradas, valorando la iniciativa y el trabajo en equipo."
     },
     {
-        "q": "En el marco del derecho a la protección de su familia, ¿en qué casos la protección de a familia podrá ser entendida como una limitación al ejercicio de los derechos y deberes de las personas con discapacidad?",
+        "q": "En el marco del derecho a la protección de su familia, ¿en qué casos la protección de la familia podrá ser entendida como una limitación al ejercicio de los derechos y deberes de las personas con discapacidad?",
         "a": "En ningún caso la protección familiar podrá ser entendida o utilizada como una limitación, restricción o justificación para vulnerar o impedir el ejercicio pleno de los derechos, la autonomía y los deberes de las personas con discapacidad."
     },
     {
-        "q": "¿En qué se enfoca la intencionalidad dentro del ciclo \"proceso de desarrollo y consolidación de a innovación\"?",
+        "q": "¿En qué se enfoca la intencionalidad dentro del ciclo \"proceso de desarrollo y consolidación de la innovación\"?",
         "a": "Se enfoca en que la comunidad educativa se interrogue de manera conjunta acerca de qué es exactamente lo que quiere transformar y por qué, de finiendo de esta forma el horizonte hacia el cual se quiere llegar."
     },
     {
@@ -7043,7 +7043,7 @@ const window_data = [
         "a": "Se agravará en una mitad cuando el delito sea cometido por una servidora o un servidor público aprovechando las funciones de su cargo."
     },
     {
-        "q": "Según el documento \"Convivencia escolar y resolución pacifica de conflictos•. la Cultura de Paz en la actualidad supone una nueva perspectiva socio-critica de a organización escolar y una nueva forma de abordar los conflictos. ¿Dónde se producen dichos conflictos?",
+        "q": "Según el documento \"Convivencia escolar y resolución pacifica de conflictos•. la Cultura de Paz en la actualidad supone una nueva perspectiva socio-critica de la organización escolar y una nueva forma de abordar los conflictos. ¿Dónde se producen dichos conflictos?",
         "a": "Se producen de manera continua en el propio seno de la organización escolar (o centro educativo), ya que son espacios de interacción social caracterizados por el encuentro de racionalidades divergentes y multiplicidad de intereses."
     },
     {
@@ -7055,7 +7055,7 @@ const window_data = [
         "a": "Debe ponerlos a disposición en un plazo máximo de ocho (8) horas a partir de su aprehens ión."
     },
     {
-        "q": "¿En qué plazo máximo debe a 0 el solicitante subsanar las observaciones y reingresar el trámite, cuando el Proyecto Educativo es devuelto por evidenciarse incumplimiento de requisitos técnicos o legales?",
+        "q": "¿En qué plazo máximo debe a o el solicitante subsanar las observaciones y reingresar el trámite, cuando el Proyecto Educativo es devuelto por evidenciarse incumplimiento de requisitos técnicos o legales?",
         "a": "Debe subsanar las observaciones y reingresar el trámite en un plazo máximo de treinta (30) días hábiles."
     },
     {
@@ -7175,7 +7175,7 @@ const window_data = [
         "a": "El reglamento tipifica como faltas graves acciones como la extorsión a los alumnos ofreciendo calificaciones, el empleo de castigos corporales o psicológicos, la participación en la compra-venta de útiles escolares, las exacciones a los padres de familia y la organización o asistencia a fiestas con bebidas alcohólicas en el establecimiento."
     },
     {
-        "q": "Si la entidad pertinente no inicia el proceso administrativo 0 la acción judicial dentro del plazo establecido tras recibir el dictamen, ¿qué acción toma el Contralor General?",
+        "q": "Si la entidad pertinente no inicia el proceso administrativo o la acción judicial dentro del plazo establecido tras recibir el dictamen, ¿qué acción toma el Contralor General?",
         "a": "El Contralor General puede iniciar directamente la acción legal correspondien te o instruir a la instancia pertinente para que asuma las acciones sancionatorias por incumplimiento de deberes en la administración pública."
     },
     {
@@ -7223,7 +7223,7 @@ const window_data = [
         "a": "Se describe la emergencia de la sociedad de la información y el conocimiento, cuyo alcance social transforma radicalmente las formas de interactuar y aprender a nivel global, pero que al mismo tiempo impone el enorme reto de evitar que la brecha digital profundice las desigualdades sociales preexistentes."
     },
     {
-        "q": "De acuerdo con el texto \"Convivencia escolar y resolución pacifica de conflictos\", la Organización Mundial de a Salud define la violencia como:",
+        "q": "De acuerdo con el texto \"Convivencia escolar y resolución pacifica de conflictos\", la Organización Mundial de la Salud define la violencia como:",
         "a": "La define como el uso deliberado de la fuerza física o el poder, ya sea en grado de amenaza o efectivo, cont ra uno mismo, otra persona o un grupo, que provoque o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones."
     },
     {
@@ -7231,11 +7231,11 @@ const window_data = [
         "a": "El tipo de innovación está determinado por la magnitud del cambio que produce en los aspectos estructur ales de la educación, pudiendo incidir en distintos niveles jerárquicos como el aula, la institución educativa o el sistema escolar en su conjunto."
     },
     {
-        "q": "Las consecuencias de la violencia son diferentes, según a acción u omisión que se ejerce contra una niña un niño 0 adolescente y depende de diversos factores como:",
+        "q": "Las consecuencias de la violencia son diferentes, según a acción u omisión que se ejerce contra una niña un niño o adolescente y depende de diversos factores como:",
         "a": "Depende de factores determinantes como el tipo de conducta o forma de agresión, la grav edad, la frecuencia, la relación del agresor con la víctima y la vinculación con el contexto en el que ocurre."
     },
     {
-        "q": "En el contexto de a innovación educativa ¿cuál es el ámbito donde se origina principa mente a nnovación y qué tipo de respuestas abarca?",
+        "q": "En el contexto de la innovación educativa ¿cuál es el ámbito donde se origina principa mente a nnovación y qué tipo de respuestas abarca?",
         "a": "Se origina principalmente en el ámbito de la propia institución educativa, que funge como su territorio y motor, abarcando respuestas creativas y pertinentes acordes a las particularidades, demandas y necesidades concretas de los estudiantes, sus familias y la comunidad local."
     },
     {
@@ -7379,7 +7379,7 @@ const window_data = [
         "a": "Kohler llegó a la conclusión de que el alumno siempre percibe la situación de aprendizaje en su conjunto, evalúa toda la relación y los factores involucrados de manera global, y finalmente llega a una solución perspicaz."
     },
     {
-        "q": "¿Qué institución tiene la facultad de declarar alerta contra la violencia hacia las mujeres en un área 0 sector determinado a nivel nacional?",
+        "q": "¿Qué institución tiene la facultad de declarar alerta contra la violencia hacia las mujeres en un área o sector determinado a nivel nacional?",
         "a": "La institución facultada para declarar esta alerta a nivel nacional es el Ente Rector, representado por el Mini sterio de Justicia y Transparencia Institucional."
     },
     {
@@ -7399,7 +7399,7 @@ const window_data = [
         "a": "Consiste en que el estudiante (u organismo) intente varias soluciones de un problema repetidamente ant es de llegar a la respuesta o conducta correcta."
     },
     {
-        "q": "El método de estudio de caso se basa en el examen, análisis y diagnóstico de un problema real 0 simulado para que los principios generales puedan surgir de una manera realista. ¿Cuál es el objetivo del estudio de caso?",
+        "q": "El método de estudio de caso se basa en el examen, análisis y diagnóstico de un problema real o simulado para que los principios generales puedan surgir de una manera realista. ¿Cuál es el objetivo del estudio de caso?",
         "a": "Su objetivo es crear una situación activa y participativa de enseñanza y aprendizaje que refleje el mundo exterior, buscando mejorar la capacidad del alumno para identificar principios subyacentes, pensar rápidamente bajo presión y desentrañar relaciones complejas."
     },
     {
@@ -7431,7 +7431,7 @@ const window_data = [
         "a": "Los dos módulos más importantes para procesar las emociones y el aprendizaje son la amígdala cerebral y el hipocampo."
     },
     {
-        "q": "El término innovación legó a a educación en los años 60, proveniente del campo de la administración, ¿qué caracterizó al movimiento innovador de los años 70 y 80?",
+        "q": "El término innovación legó a la educación en los años 60, proveniente del campo de la administración, ¿qué caracterizó al movimiento innovador de los años 70 y 80?",
         "a": "Se caracterizó por poner un fuerte énfasis en el protagonismo de las y los docentes, dan do la señal de que los cambios debían generarse \"desde abajo\"."
     },
     {
@@ -7447,7 +7447,7 @@ const window_data = [
         "a": "Recae la obligación específica de capacitar al personal de las Unidades Municipales de atención a la persona con discapacidad."
     },
     {
-        "q": "¿Quién define el Calendario Académico para el inicio y conclusión de a Formación Superior Técnica. Tecnológica y Artística. y en concordancia con qué criterio lo hace?",
+        "q": "¿Quién define el Calendario Académico para el inicio y conclusión de la Formación Superior Técnica. Tecnológica y Artística. y en concordancia con qué criterio lo hace?",
         "a": "Lo define el Ministerio de Educación, a través de sus instancias correspondientes, e n concordancia con las políticas educativas, la carga horaria y las características específicas de las diferentes modalidades de estudio."
     },
     {
@@ -7459,7 +7459,7 @@ const window_data = [
         "a": "Debe implementar la técnica de \"Foros\" (o foros de discusión), cuyas características son contrastar diferentes puntos de vista, motivar la investigación de contenidos, intercambiar información variada y estimular el pensamiento crítico."
     },
     {
-        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" menciona que la educación que inspira la Cultura de paz está obligada a poner en práctica modelos de mejora de a convivencia en los que se desarrollen programas de prevención primaria desde:",
+        "q": "El documento \"Convivencia escolar y resolución pacifica de conflictos\" menciona que la educación que inspira la Cultura de paz está obligada a poner en práctica modelos de mejora de la convivencia en los que se desarrollen programas de prevención primaria desde:",
         "a": "Desde el marco global del centro educativo, abarcando los niveles indicados por el modelo ecológico: alumnado, aula, centro y entorno."
     },
     {
@@ -7595,7 +7595,7 @@ const window_data = [
         "a": "Se incrementa o consolida con mayor facilidad cuando en el aprendizaje existe motivación, repetición de siete a diez frecuencias diferentes, variedad con estímul os multisen soriales y un contexto resonante con emoción."
     },
     {
-        "q": "Según los métodos generales de enseñanza descritos en el libro «Estilos de aprendizaje y métodos de enseñanza», proceder de 0 concreto a IO abstracto implica que:",
+        "q": "Según los métodos generales de enseñanza descritos en el libro «Estilos de aprendizaje y métodos de enseñanza», proceder de o concreto a IO abstracto implica que:",
         "a": "Implica acercarnos al estudiante a través de objetos concretos, actividades y ejemplos pa ra ayudar a su imaginación, y a partir de allí conducirlo progresivamente hacia niveles más altos de pensamiento y abstracción."
     },
     {
@@ -7667,7 +7667,7 @@ const window_data = [
         "a": "Estos certificados son emitidos por la Dirección Departamental de Educación (a través de la instancia jerárquica correspondiente), bajo la condición estricta de que la solicitud se emita basándose en los archivos y el Historial Académico originales que quedaron bajo su resguardo tras el cierre definitivo de la institución."
     },
     {
-        "q": "En el marco de a neurociencia aplicada al aprendizaje, ¿a qué situación se denomina «retraso genómico»?",
+        "q": "En el marco de la neurociencia aplicada al aprendizaje, ¿a qué situación se denomina «retraso genómico»?",
         "a": "Se denomina \"retraso genómico\" a la brecha evolutiva que existe entre nuestro cerebro primitivo (adaptado genéticamente hace miles de años para la supervivencia instintiva en la naturaleza) y las exigencias del entorno moderno (como la lectura, las escuelas y la tecnología), para las cuales nuestro cerebro a ún no ha tenido el tiempo evolutivo suficiente para adaptarse estructuralmente por completo."
     },
     {
@@ -7747,7 +7747,7 @@ const window_data = [
         "a": "Se determina según los principios de la normativa educativa boliviana y la convivencia pacífica."
     },
     {
-        "q": "¿Cuál de las siguientes frases describe correctamente la relación entre el enfoque restaurativo, la cu tura de paz y el tratamiento del conflicto en el marco de las medidas generales de prevención de la violencia en la comunidad educativa?",
+        "q": "¿Cuál de las siguientes frases describe correctamente la relación entre el enfoque restaurativo, la cultura de paz y el tratamiento del conflicto en el marco de las medidas generales de prevención de la violencia en la comunidad educativa?",
         "a": "La frase correcta es aquella que indica que se debe transversalizar el enfoque restaurativo en todos los procesos de la comunidad educativa, aplicándolo principalmente en la metodología de resolución pacífica de los conflictos para fortalecer el respeto y la convivencia armónica."
     },
     {
@@ -7771,7 +7771,7 @@ const window_data = [
         "a": "No puede obviar el clima escolar, el cual está determinado de forma transversal por los comportamientos individuales, la motivación, el liderazgo y la propia estructura de la organización."
     },
     {
-        "q": "Según el documento \"Convivencia escolar y resolución pacifica de conflictos\", el énfasis puesto por el profesorado en las posibilidades del alumnado para obtener buenos resultados y tener un comportamiento adecuado. sin juicios predeterminados, influye no sólo en las estrategias 0 sistemas de reconocimiento empleados, sino también sobre:",
+        "q": "Según el documento \"Convivencia escolar y resolución pacifica de conflictos\", el énfasis puesto por el profesorado en las posibilidades del alumnado para obtener buenos resultados y tener un comportamiento adecuado. sin juicios predeterminados, influye no sólo en las estrategias o sistemas de reconocimiento empleados, sino también sobre:",
         "a": "Influye también directamente sobre el clima educativo y el clima relacional que se genera entre el alumnado y sus profesores."
     },
     {
@@ -7851,7 +7851,7 @@ const window_data = [
         "a": "La consecuencia es que, como el currículum formal (diseñado en el ámbito político) es demasiado vago y abstr acto para guiar la clase, el verdadero currículum (currículum real) se debe crear, reinventar y transponer pragmáticamente en los ámbitos del centro y del aula, a través de las decisiones, esquemas de pensamiento y el trabajo cotidiano negociado del maestr o con sus alumnos,,,,."
     },
     {
-        "q": "Considerando la \"Guia para la Identificación y Denuncia de a Violencia Intrafamiliar en el Ámbito Educativo-, en las unidades educativas se tiene la posibilidad de identificar factores de protección y factores de riesgo en el ámbito familiar, asimismo, es posible detectar. antes que otras instituciones, las situaciones de violencia que sufren las y los estudiantes en sus hogares, debido a:",
+        "q": "Considerando la \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo-, en las unidades educativas se tiene la posibilidad de identificar factores de protección y factores de riesgo en el ámbito familiar, asimismo, es posible detectar. antes que otras instituciones, las situaciones de violencia que sufren las y los estudiantes en sus hogares, debido a:",
         "a": "Debido a la cotidianeidad y al continuo relacionamiento que los actores educativos mantienen con las y los estudian tes y sus familias."
     },
     {
@@ -7887,7 +7887,7 @@ const window_data = [
         "a": "Ocurre que estas instituciones se flexibilizan y se dinamizan para dar respuestas a los cambios, estableciendo una reflexión permanente que les permite aprender de los errores."
     },
     {
-        "q": "Si el máximo ejecutivo de la entidad damnificada de la entidad que ejerce tuición 0 la dirección colegiada no iniciare o no prosiguiere las acciones legales pertinentes hasta su conclusión. ¿qué acción puede ejercer el Contralor General?",
+        "q": "Si el máximo ejecutivo de la entidad damnificada de la entidad que ejerce tuición o la dirección colegiada no iniciare o no prosiguiere las acciones legales pertinentes hasta su conclusión. ¿qué acción puede ejercer el Contralor General?",
         "a": "Tal como se me ncionó en interacciones anteriores del historial, el Contralor General puede iniciar directamente la acción legal correspondiente o instruir a la instancia pertinente para que asuma las acciones sancionatorias."
     },
     {
@@ -7923,7 +7923,7 @@ const window_data = [
         "a": "El neurocientífico Timothy Bliss."
     },
     {
-        "q": "La Taxonomia de Bloom, ampliamente utilizada en el diseño curricular y en la p anificación de a enseñanza divide qué y cómo aprenden los seres humanos en tres dominios separados de aprendizaje. ¿Cuáles son estos tres dominios?",
+        "q": "La Taxonomia de Bloom, ampliamente utilizada en el diseño curricular y en la p anificación de la enseñanza divide qué y cómo aprenden los seres humanos en tres dominios separados de aprendizaje. ¿Cuáles son estos tres dominios?",
         "a": "Los tres dominios de apr endizaje definidos por la Taxonomía de Bloom son el Dominio Cognitivo, el Dominio Afectivo y el Dominio Psicomotor."
     },
     {
@@ -7943,7 +7943,7 @@ const window_data = [
         "a": "Han sido revaloradas la investigación -acción, la autoevaluación, la sistematización y la reflexión sobre las prácticas pedagógicas."
     },
     {
-        "q": "Una maestra de apoyo reporta el informe escrito del proceso de apoyo técnico pedagógico al Centro de Educación Especial, Con visto bueno de a institución educativa correspondiente, De acuerdo al \"Reglamento para el Fortalecimiento de la Educación nclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta•. la maestra cumple con una:",
+        "q": "Una maestra de apoyo reporta el informe escrito del proceso de apoyo técnico pedagógico al Centro de Educación Especial, Con visto bueno de la institución educativa correspondiente, De acuerdo al \"Reglamento para el Fortalecimiento de la Educación nclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta•. la maestra cumple con una:",
         "a": "Cumple con una responsabilidad o función específica asignada legalmente a las maestras y maestros de apoyo."
     },
     {
@@ -8015,7 +8015,7 @@ const window_data = [
         "a": "Esta carga horaria corresponde al maestro de apoyo de estudiantes con Discapacidad Visual."
     },
     {
-        "q": "Ca función específica \"orienta a la maestra 0 maestro de au a, sobre criterios de evaluación de ogro de aprendizajes•. corresponde a maestros de apoyo de estudiantes con:",
+        "q": "Ca función específica \"orienta a la maestra o maestro de au a, sobre criterios de evaluación de ogro de aprendizajes•. corresponde a maestros de apoyo de estudiantes con:",
         "a": "Corresponde a los maestros de apoyo de estudiantes con Discapacidad Auditiva."
     },
     {
@@ -8035,7 +8035,7 @@ const window_data = [
         "a": "El proceso disciplinario y la denuncia correspondiente se inician ante la Dirección Distrital Educativa; asimismo, las  denuncias iniciales por violencia en la unidad educativa deben ser recibidas por la directora o el director para informar a dicha Dirección Distrital."
     },
     {
-        "q": "El texto \"Convivencia escolar y resolución pacifica de conflictos\" menciona que: las acciones de control y de prevención, por tanto, deben orientarse a estos dos tipos de factores y centrarse en los ámbitos 0 niveles en los que operan: individual. familiar y social, por Otro lado, también se deben considerar. desde la temporalidad otros factores asociados a la violencia como:",
+        "q": "El texto \"Convivencia escolar y resolución pacifica de conflictos\" menciona que: las acciones de control y de prevención, por tanto, deben orientarse a estos dos tipos de factores y centrarse en los ámbitos o niveles en los que operan: individual. familiar y social, por Otro lado, también se deben considerar. desde la temporalidad otros factores asociados a la violencia como:",
         "a": "Desde la temporalidad, los factores asociados a la violencia que también deben considerarse son: los factores predisponentes (condiciones previas que aumentan la vulnerabilidad), los factores precipitantes (eventos que detonan la conducta violenta) y los factores mantenedores (circunstancias que perpetúan y cronifican la violencia en el tiempo)."
     },
     {
@@ -8155,7 +8155,7 @@ const window_data = [
         "a": "Según la Ley N° 223, el Estado Plurinacional de Bolivia garantiza el derecho a la vida de las personas con discapacidad en igualdad de condiciones con las demás personas, asegurando su protección integral, su plena inclusión social, el acceso a servicios de salud, educación y trabajo, y la erradicación de toda forma de discriminación por razón de discapacidad."
     },
     {
-        "q": "Durante la segunda mitad del siglo XX. ¿desde qué ámbito externo a la educación fue transferida la innovación para convertirse en preocupac'ón pedagógica?. según el documento Innovación Educativa de a UNESCO.",
+        "q": "Durante la segunda mitad del siglo XX. ¿desde qué ámbito externo a la educación fue transferida la innovación para convertirse en preocupac'ón pedagógica?. según el documento Innovación Educativa de la UNESCO.",
         "a": "Según el documento, la innovación es un tér mino que llegó a la educación en los años 60, proveniente del campo de la administración."
     },
     {
@@ -8199,7 +8199,7 @@ const window_data = [
         "a": "Desde el neuroaprendizaje se pueden utilizar técnicas como enseñar a respetar las horas de sueño, fortalecer la importancia d e estudiar poco a poco, pedir a los estudiantes que describan su emoción antes del examen como una actividad liberadora, y trabajar con las familias la tolerancia y la frustración para comprender la relevancia del error en el aprendizaje."
     },
     {
-        "q": "Una maestra organiza sus clases de manera que cada estudiante trabaja de forma individual y separada, evitando la interacción entre compañeros, argumentando que asi se mide el rendimiento real de cada uno Según los principios de a buena enseñanza, ¿qué aspecto fundamental está dejando de lado esta docente?",
+        "q": "Una maestra organiza sus clases de manera que cada estudiante trabaja de forma individual y separada, evitando la interacción entre compañeros, argumentando que asi se mide el rendimiento real de cada uno Según los principios de la buena enseñanza, ¿qué aspecto fundamental está dejando de lado esta docente?",
         "a": "Esta docente está dejando de lado la interacción con otros y la necesidad de hacer que la clase sea más cooperativa, aspectos fundamentales ya que las situaciones de recompensas cooperativas y los ej ercicios de grupo tienden a promover la motivación y un aprendizaje más integral y efectivo."
     },
     {
@@ -8279,7 +8279,7 @@ const window_data = [
         "a": "Tienen la obligación de denunciar y coadyuvar en la acción penal correspondiente hasta su conclusión ante el Ministerio Público o la autoridad competente."
     },
     {
-        "q": "¿Cuál de las siguientes acciones corresponde EXCLUSIVAMENTE a la responsabilidad de la directora o director de la unidad educativa en el marco de las medidas generales de prevención de a violencia, y NO puede ser delegada ni compartida con otros actores de la comunidad educativa?",
+        "q": "¿Cuál de las siguientes acciones corresponde EXCLUSIVAMENTE a la responsabilidad de la directora o director de la unidad educativa en el marco de las medidas generales de prevención de la violencia, y NO puede ser delegada ni compartida con otros actores de la comunidad educativa?",
         "a": "Corresponde de manera exclusiva e indelegable a la directora o director la responsabilidad de recibir formalmente las denuncias por violencia física y psicológica que se realicen dentro de las instalaciones de la institución."
     },
     {
@@ -8307,7 +8307,7 @@ const window_data = [
         "a": "Parten del supuesto de que el problema de la violencia y la conflictividad no es solo indivi dual, sino que tiene profundas raíces sociales, por lo que se requiere una intervención comunitaria basada en la prevención primaria y el apoyo del entorno."
     },
     {
-        "q": "Según Perrenoud. la administración escolar tolera ciertas desviaciones de a práctica docente, pero prohibe otras. ¿Qué tipo de desviación se menciona como especialmente vigilada?",
+        "q": "Según Perrenoud. la administración escolar tolera ciertas desviaciones de la práctica docente, pero prohibe otras. ¿Qué tipo de desviación se menciona como especialmente vigilada?",
         "a": "Se vigilan y prohíben de forma estricta las desviaciones que impliquen pé rdida de control, indisciplina en el aula o conflictos graves con las familias, mientras que las simples alteraciones metodológicas o del currículo suelen ser toleradas."
     },
     {
@@ -8403,7 +8403,7 @@ const window_data = [
         "a": "Una técnica muy amplia, que consiste en la intervención de un tercero (un individuo, un equipo, etc.) que"
     },
     {
-        "q": "Según el acápite -Referencia 0 derivación\" de la *Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", cuando el riesgo de violencia es ALTO, ¿en qué plazo debe realizarse la comunicación a la DNA?",
+        "q": "Según el acápite -Referencia o derivación\" de la *Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\", cuando el riesgo de violencia es ALTO, ¿en qué plazo debe realizarse la comunicación a la DNA?",
         "a": "Debe realizars e la denuncia o comunicación en un plazo máximo de 24 horas."
     },
     {
@@ -8423,11 +8423,11 @@ const window_data = [
         "a": "Depende fundamentalmente del modelo pedagógico y metodológico con el que se integren, así como de la capacidad y formación del docente para transformar su práctica, y no simplemente de la disponibilidad tecnológica."
     },
     {
-        "q": "¿Qué característica sistémica define a la innovación y determina su éxito más allá de a calidad individual de sus actores?",
+        "q": "¿Qué característica sistémica define a la innovación y determina su éxito más allá de la calidad individual de sus actores?",
         "a": "Se define por su naturaleza colectiva e institucional (autopoiesis), ya que produce una reorganización del sistema y requiere una visión compartida, trabajo colaborativo y un clima de confianza donde la escuela funcione como una verdadera comunidad de aprendizaje."
     },
     {
-        "q": "En el texto \"Convivencia escolar y resolución pacífica de conflictos\" se menciona que un centro caracterizado por el uso y abuso de a norma y la sanción para la regulación de la convivencia escolar favorecerá un clima:",
+        "q": "En el texto \"Convivencia escolar y resolución pacífica de conflictos\" se menciona que un centro caracterizado por el uso y abuso de la norma y la sanción para la regulación de la convivencia escolar favorecerá un clima:",
         "a": "Favorecerá un clima de insegurida d y de injusticia, impidiendo así las prácticas educativas basadas en el aprendizaje cooperativo y deteriorando el sentido de pertenencia a la institución."
     },
     {
@@ -8451,7 +8451,7 @@ const window_data = [
         "a": "Se recopila información de fuentes confiables como libros, periódicos, revistas"
     },
     {
-        "q": "En el marco de a integración de TIC en la formación docente, ¿qué información obtienen as instituciones a partir de la evaluación continua de la efectividad de la tecnología en sus instancias de formación?",
+        "q": "En el marco de la integración de TIC en la formación docente, ¿qué información obtienen as instituciones a partir de la evaluación continua de la efectividad de la tecnología en sus instancias de formación?",
         "a": "Obtienen información vital sobre el impacto r eal de las herramientas en el aprendizaje, lo que les permite identificar áreas de mejora, corregir errores, ajustar las estrategias de capacitación docente y consolidar el proceso de innovación."
     },
     {
@@ -8475,7 +8475,7 @@ const window_data = [
         "a": "Tiene la obligación de mantener la estricta reserva y confidencialidad, así como garantizar la adecuada custodia, resguardo y correcto manejo de toda la documentación institucional y académica a su cargo."
     },
     {
-        "q": "En el marco de a interacción interinstitucional. según el \"Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta\", ¿qué tipo de acciones deben coordinar y definir los directores de los centros de educación especial e instituciones educativas?",
+        "q": "En el marco de la interacción interinstitucional. según el \"Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional — Modalidad Indirecta\", ¿qué tipo de acciones deben coordinar y definir los directores de los centros de educación especial e instituciones educativas?",
         "a": "Deben coordinar y definir acciones pedagógicas y administrativas que garanticen una atención educativa de calidad a las y los estudiantes con discapacidad, dificultades en el aprendizaje o talento e xtraordinario."
     },
     {
@@ -8519,7 +8519,7 @@ const window_data = [
         "a": "Considera que las necesidades de deficiencia (fisiológicas, de seguridad, de per tenencia y estima) deben satisfacerse obligatoriamente antes de que la persona pueda avanzar, sentirse motivada y buscar satisfacer las necesidades superiores o de crecimiento, como la autorrealización y la comprensión."
     },
     {
-        "q": "¿Cuándo a familia natural, la sustituta 0 los servicios sustitutivos del cuidado familiar pierden os beneficios establecidos a su favor?",
+        "q": "¿Cuándo la familia natural, la sustituta o los servicios sustitutivos del cuidado familiar pierden os beneficios establecidos a su favor?",
         "a": "Pierden de manera inmediata estos beneficios cuando se comprueba que incurren en actos de violencia, abandono, neg ligencia, maltrato o explotación en contra de la niña, niño, adolescente o persona con discapacidad que se encuentra bajo su resguardo."
     },
     {
@@ -8547,7 +8547,7 @@ const window_data = [
         "a": "Cuando los es tudiantes tienen éxito, el logro resulta altamente motivador, lo cual fomenta un nivel real de aspiración, consolida un autoconcepto positivo, eleva su confianza y los impulsa a enfrentar nuevos desafíos de manera autodirigida."
     },
     {
-        "q": "Según el texto «El significado del currículum». ¿en qué «abismo teleológico» la idea de a educación se empobrece inevitablemente?",
+        "q": "Según el texto «El significado del currículum». ¿en qué «abismo teleológico» la idea de la educación se empobrece inevitablemente?",
         "a": "La idea de la educación se empobrece en el abismo que se genera por la gran distancia entre la carga utópica de los propós itos y fines educativos generales y la realidad de las prácticas educativas diarias, las cuales tienden a enclaustrarse y reducirse a los moldes dominantes enfocados solo en el éxito académico formal."
     },
     {
@@ -8651,7 +8651,7 @@ const window_data = [
         "a": "Tienen en común la fun ción obligatoria de aplicar procesos de sensibilización, asesoramiento y orientación a las comunidades educativas."
     },
     {
-        "q": "Según la neurociencia. ¿Por qué el funcionamiento de a amígdala influye de manera determinante en el proceso de aprendizaje?",
+        "q": "Según la neurociencia. ¿Por qué el funcionamiento de la amígdala influye de manera determinante en el proceso de aprendizaje?",
         "a": "Porque actúa como un sensor instintivo; si se activa ante el estrés o emociones negativas, bloquea el paso de la información ha cia las redes cognitivas racionales (neocorteza), impidiendo el aprendizaje."
     },
     {
@@ -8667,7 +8667,7 @@ const window_data = [
         "a": "La condición que hace posible este resultado es la de \"hacer del aprendizaje de las prácticas una constante sistematización\"."
     },
     {
-        "q": "Según la \"Guia para la dentificación y Denuncia de la Violencia Intrafamiliar en el Ámbto Educativo\", ¿cuál de los siguientes enunciados corresponde a una man 'festación de a violencia sexual?",
+        "q": "Según la \"Guia para la dentificación y Denuncia de la Violencia Intrafamiliar en el Ámbto Educativo\", ¿cuál de los siguientes enunciados corresponde a una man 'festación de la violencia sexual?",
         "a": "Corresponde a manifestaciones como acosar u hostigar sexua lmente, seducir o manipular emocionalmente, usar palabras eróticas, inventar juegos para tocar partes íntimas o espiar a los estudiantes."
     },
     {
@@ -8735,7 +8735,7 @@ const window_data = [
         "a": "Para garantizar un aprendizaje profundo, se requiere asegurar un contexto emocionalmente resonante y motivador, proveer estímulos multisensoriales, aplicar repetición novedosa e involucrar al estudiante activamente para que as ocie las nuevas ideas con sus experiencias y conocimientos previos."
     },
     {
-        "q": "Desde la perspectiva de a didáctica, ¿qué función esencial cumple la estrategia didáctica en relación con el proceso cognoscitivo del estudiante?",
+        "q": "Desde la perspectiva de la didáctica, ¿qué función esencial cumple la estrategia didáctica en relación con el proceso cognoscitivo del estudiante?",
         "a": "Cumple la función de facilitar, mediar y estimular el encuentro activo del estudiante con el contenido, pe rmitiendo la correcta adquisición, procesamiento y retención de la información para transformar y enriquecer sus capacidades intelectuales."
     },
     {
@@ -8840,7 +8840,7 @@ const window_data = [
         "a": "Lo definen como el conjunto de interacciones y transacciones que se generan en la tarea educativa dentro de una si tuación espacio -temporal dada."
     },
     {
-        "q": "En términos de innovación educativa ¿qué implica verdaderamente superar la tensión entre a educación y as TIC?",
+        "q": "En términos de innovación educativa ¿qué implica verdaderamente superar la tensión entre la educación y as TIC?",
         "a": "Implica comprender que la verdadera innovación no se limita a introducir tecnología, sino que requiere producir transformaciones estructurales en el enfoque de la educación, en el rol del docente y en las estrategias de enseñanza centrad as en el aprendizaje."
     },
     {
@@ -8868,7 +8868,7 @@ const window_data = [
         "a": "Debe coordinar directamente con la Dirección Administrativa o la Dirección General de la institución."
     },
     {
-        "q": "¿Con qué financiarán Sus costos las entidades con autonomía de gestión y de patrimonio Cuyos ingresos provengan exclusivamente por venta de bienes 0 por prestación de servicios?",
+        "q": "¿Con qué financiarán Sus costos las entidades con autonomía de gestión y de patrimonio Cuyos ingresos provengan exclusivamente por venta de bienes o por prestación de servicios?",
         "a": "Se financiarán estrictamente con la generación de sus recursos propios o in gresos específicos."
     },
     {
@@ -8968,7 +8968,7 @@ const window_data = [
         "a": "Se define como el proceso de anticiparse a los conflictos antes de que estos estallen y generen manifestaciones negativas, poniendo en práctica programas para desarrollar en la comunidad educativa un conjunto de habilidades y estrategias que permitan afrontarlos adecuadamente."
     },
     {
-        "q": "Enseñar a los estudiantes con el fin de alcanzar una meta determinada requiere de métodos adecuados, pues ciertos estudiantes pueden progresar rápidamente si hablan 0 interactúan, mientras otros pueden aprender rápida y significativamente a través de instrucciones programadas. En este contexto. ¿cuál es el desafío pedagógico para los maestros?",
+        "q": "Enseñar a los estudiantes con el fin de alcanzar una meta determinada requiere de métodos adecuados, pues ciertos estudiantes pueden progresar rápidamente si hablan o interactúan, mientras otros pueden aprender rápida y significativamente a través de instrucciones programadas. En este contexto. ¿cuál es el desafío pedagógico para los maestros?",
         "a": "El desafío pedagógico consiste en diseñar experiencias de aprendizaje adaptadas al contexto y a las diferencias individuales, utilizando una \"caja de herramientas de métodos\" (pluralidad metodológica) en lugar de uno solo, para lograr que cada estudiante construya aprendizajes significativos según su propio estilo."
     },
     {
@@ -8992,7 +8992,7 @@ const window_data = [
         "a": "Resulta relevante su funci ón de dar acogida a ritmos diferentes de aprendizaje y restar oportunidades para que proliferen los controles selectivos a partir de los cuales se establecen jerarquías."
     },
     {
-        "q": "La servidora o el servidor público o autoridad que, para hacer o dejar de hacer un acto relativo a sus funciones o contrario a los deberes de su cargo, recibiere directamente o por interpuesta persona, para si 0 un tercero, dádivas 0 cualquier Otra ventaja 0 aceptare ofrecimientos 0 promesas. ¿A qué delito corresponde esta descripción?",
+        "q": "La servidora o el servidor público o autoridad que, para hacer o dejar de hacer un acto relativo a sus funciones o contrario a los deberes de su cargo, recibiere directamente o por interpuesta persona, para si o un tercero, dádivas o cualquier Otra ventaja o aceptare ofrecimientos o promesas. ¿A qué delito corresponde esta descripción?",
         "a": "Corresponde al delito de cohecho pasivo propio."
     },
     {
@@ -9152,7 +9152,7 @@ const window_data = [
         "a": "El docente debe buscar, identificar y aplicar estrategias que se adecúen al estilo propio y a la vía sensorial prefer ente de aprendizaje de cada estudiante, para así llevar su capacidad a su mayor potencial posible."
     },
     {
-        "q": "La siguiente definición de conflicto: \"Tipo de situación en la que las personas 0 grupos sociales buscan o perciben metas opuestas. afirman valores antagónicos o tienen intereses divergentes\". Corresponde a:",
+        "q": "La siguiente definición de conflicto: \"Tipo de situación en la que las personas o grupos sociales buscan o perciben metas opuestas. afirman valores antagónicos o tienen intereses divergentes\". Corresponde a:",
         "a": "Corresponde a la definición brindada por el a utor Jares (1999)."
     },
     {
@@ -9188,7 +9188,7 @@ const window_data = [
         "a": "Según el neuroaprendizaje, en la generación de las emociones secundarias interviene un factor externo como lo es la cultura o la memética, a diferencia de las primarias que son totalm ente genéticas."
     },
     {
-        "q": "En e texto \"Convivencia escolar y resolución pacífica de conflictos\". qué autor afirma \"El sufrir 0 estar expuesto a abuso crónico en la niñez es un precursor importante de violencia adulta\".",
+        "q": "En e texto \"Convivencia escolar y resolución pacífica de conflictos\". qué autor afirma \"El sufrir o estar expuesto a abuso crónico en la niñez es un precursor importante de violencia adulta\".",
         "a": "Esta afirmación es atribuida a investigadores y teóricos de la violencia referenciados en el ámbito escolar y criminológico, tales como Reiss y Roth (1993) o Garbarino."
     },
     {
@@ -9212,7 +9212,7 @@ const window_data = [
         "a": "Están desarro llando la Inteligencia Emocional, la cual se organiza en torno a capacidades fundamentales como la autoconciencia, la autorregulación, la motivación, la empatía y las habilidades sociales."
     },
     {
-        "q": "Según las señales y consecuencias de la violencia a largo plazo en a adolescencia establecidas en la \"Guia para la Identificación y Denuncia de a Violencia Intrafamiliar en el Ámbito Educativo\". ¿cuál de los siguientes enunciados corresponde al área cognitiva?",
+        "q": "Según las señales y consecuencias de la violencia a largo plazo en a adolescencia establecidas en la \"Guia para la Identificación y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\". ¿cuál de los siguientes enunciados corresponde al área cognitiva?",
         "a": "Corresponde a consecuencias como los trastornos del aprendizaje (dificultades en escritura, lectura, cálculo), la disminución del desempeño cognitivo en el ámbito escolar y generalizado, y alteraciones permanentes en las funciones ejecutivas del cerebro como la memoria, el autocontrol y la flexibilidad cognitiva."
     },
     {
@@ -9428,7 +9428,7 @@ const window_data = [
         "a": "Su propósito es facilitar la adquisición, el almacenamiento y/o la utilización de información o conocimien tos a través de secuencias integradas de procedimientos."
     },
     {
-        "q": "Considerando la tabla de •valoración del riesgo\" de la \"Guia para la Identificac'ón y Denuncia de a Violencia Intrafamiliar en el Ámbito Educativo\". ¿cuál de las siguientes opciones corresponde al maltrato fisico con riesgo ALTO?",
+        "q": "Considerando la tabla de •valoración del riesgo\" de la \"Guia para la Identificac'ón y Denuncia de la Violencia Intrafamiliar en el Ámbito Educativo\". ¿cuál de las siguientes opciones corresponde al maltrato fisico con riesgo ALTO?",
         "a": "Corresponde a situacio nes de riesgo vital para el estudiante, presencia de ideas de muerte o autoeliminación, y casos de violencia grave hacia otros miembros de la familia con riesgo de lesiones graves, homicidio o amenazas de muerte."
     },
     {
@@ -9452,7 +9452,7 @@ const window_data = [
         "a": "El  propósito central es fomentar el desarrollo motriz y socioafectivo integral del estudiante, diseñando tareas que relacionen l a práctica técnica con la resolución reflexiva de problemas en el entorno de juego."
     },
     {
-        "q": "¿Cuál es el propósito central de a fase de contextualización dentro de a planeación del trabajo por proyectos en el proceso de enseñanza-aprendizaje?",
+        "q": "¿Cuál es el propósito central de la fase de contextualización dentro de la planeación del trabajo por proyectos en el proceso de enseñanza-aprendizaje?",
         "a": "Su propósito es conectar los contenidos con la realidad social, cultural y ambiental de los estudian tes, logrando que el conocimiento adquirido tenga un enfoque interdisciplinar y adquiera significado práctico para la resolución de situaciones cotidianas."
     },
     {
@@ -9476,7 +9476,7 @@ const window_data = [
         "a": "Deben presentarla ante la Dirección Departamental de Educación correspondiente, a través de la respectiva Subdirección de Educación Superior de Formación Profesional."
     },
     {
-        "q": "Dentro de las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿ante quién deben poner en conocimiento cualquier conducta 0 situación de violencia que ocurra al interior de la unidad educativa?",
+        "q": "Dentro de las responsabilidades de los estudiantes en materia de prevención de la violencia, ¿ante quién deben poner en conocimiento cualquier conducta o situación de violencia que ocurra al interior de la unidad educativa?",
         "a": "Deben ponerla en conocimiento directamente de la directora o del director de la unidad educativa y/o centro de educación especial."
     },
     {
@@ -9536,7 +9536,7 @@ const window_data = [
         "a": "La diferencia radica en que los defensores lo apoyan como un garante estructural de igualdad de oportunidades y cohesión social, mientras q ue los detractores (desde la pedagogía crítica) lo perciben como una imposición ideológica de los grupos de poder que ignora las profundas diferencias socioculturales del alumnado."
     },
     {
-        "q": "¿Cuál de las siguientes afirmaciones describe correctamente la distinción entre las medidas orientadas a la transformación del entorno cu tura de la comunidad educativa y las medidas orientadas al desarrollo de capacidades criticas y reflexivas del estudiante. de acuerdo al Protocolo de Prevención y Actuación?",
+        "q": "¿Cuál de las siguientes afirmaciones describe correctamente la distinción entre las medidas orientadas a la transformación del entorno cultura de la comunidad educativa y las medidas orientadas al desarrollo de capacidades criticas y reflexivas del estudiante. de acuerdo al Protocolo de Prevención y Actuación?",
         "a": "Las medidas orientadas al entorno buscan deconstruir estereotipos de género, étnicos y generacionales para crear una cultura de respeto, mientras que las dirigidas al estudiante buscan fortalecer su pensamiento reflexivo para que sea capaz de opinar, disentir respetuosamente y no ceder a la obediencia ciega frente a pares o adultos."
     },
     {
@@ -9632,7 +9632,7 @@ const window_data = [
         "a": "Corresponde al estilo convergente, cuyas características definitorias son la combinación del concepto abstracto con la experimentación activa , la habilidad para encontrar utilidad práctica a las ideas, la preferencia por resolver problemas técnicos (cosas) en lugar de lidiar con personas o emociones, y ser muy buenos en la aplicación directa de ideas."
     },
     {
-        "q": "El estilo de aprendizaje organizativo tecnológico-cientifico es aquel basado en la explicación de a realidad de las organizaciones y Cuyo Objetivo esencial es transformarla buscando alternativas de mejora fundamentadas. De manera que este estilo. frente al técnico, supera el ámbito del hacer. incluso del hacer bien por mera experiencia. y nos conduce:",
+        "q": "El estilo de aprendizaje organizativo tecnológico-cientifico es aquel basado en la explicación de la realidad de las organizaciones y Cuyo Objetivo esencial es transformarla buscando alternativas de mejora fundamentadas. De manera que este estilo. frente al técnico, supera el ámbito del hacer. incluso del hacer bien por mera experiencia. y nos conduce:",
         "a": "Nos conduce directamente al saber por qué se hace."
     },
     {
@@ -9684,7 +9684,7 @@ const window_data = [
         "a": "Consiste en la apropiación de conocimientos curriculares y, simultáneamente, en la interiorización de las pautas de comportamiento escolar."
     },
     {
-        "q": "Según el texto de Innovación Educativa de a UNESCO. ¿cuál de las siguientes afirmaciones describe con mayor precisión e papel del poder y as politicas en los procesos de cambio e innovación dentro de las organizaciones educativas?",
+        "q": "Según el texto de Innovación Educativa de la UNESCO. ¿cuál de las siguientes afirmaciones describe con mayor precisión e papel del poder y as politicas en los procesos de cambio e innovación dentro de las organizaciones educativas?",
         "a": "El poder y las políticas configuran y determinan las posibilidades reales de implementación."
     },
     {
@@ -9992,11 +9992,11 @@ const window_data = [
         "a": "El escalafón divide a sus trabajadores en personal docente y personal administrativo, asignándoles jerarquías: Escalafón Docente: Inicia desde el momento en que el maestro egresa de una Escuela Sup..."
     },
     {
-        "q": "El texto \"Convivencia escolar y resolución pacífica de conflictos\" seña a que e reglamento escolar constituye el acuerdo general de los miembros de a comunidad educativa sobre los principios que rigen y regulan a convivencia y que estos principios se concretan en reglas que no pueden ser confusas ni ambguas. En ese marco, ¿qué señala Martinez Pérez (1998) sobre la función de las normas?",
+        "q": "El texto \"Convivencia escolar y resolución pacífica de conflictos\" seña a que e reglamento escolar constituye el acuerdo general de los miembros de la comunidad educativa sobre los principios que rigen y regulan a convivencia y que estos principios se concretan en reglas que no pueden ser confusas ni ambguas. En ese marco, ¿qué señala Martinez Pérez (1998) sobre la función de las normas?",
         "a": "Una técnica muy amplia, que consiste en la intervención de un tercero (un individuo, un equipo, etc.) que"
     },
     {
-        "q": "Según el \"Reglamento para el Fortalecimiento de a Educación Inclusiva SEP — Modalidad Indirecta\", los estudiantes con talento extraordinario presentan:",
+        "q": "Según el \"Reglamento para el Fortalecimiento de la Educación Inclusiva SEP — Modalidad Indirecta\", los estudiantes con talento extraordinario presentan:",
         "a": "Un desempeño excepcional y habilidades sobresalientes."
     },
     {
