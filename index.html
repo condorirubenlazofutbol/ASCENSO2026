@@ -51,28 +51,30 @@
 
         <!-- Main Content -->
         <main class="main-content">
-            <header class="top-nav">
-                <button id="mobile-menu-btn" class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
-                <div class="header-info">
-                    <h1 id="current-block-title">Preguntas 1 - 60</h1>
-                    <span class="badge" id="total-count-badge">Cargando...</span>
-                </div>
-                <div class="header-actions">
-                    <button id="toggle-theme" class="theme-btn" title="Cambiar Tema">
-                        <i class="fa-solid fa-sun"></i>
+            <div class="sticky-header">
+                <header class="top-nav">
+                    <button id="mobile-menu-btn" class="mobile-menu-btn"><i class="fa-solid fa-bars"></i></button>
+                    <div class="header-info">
+                        <h1 id="current-block-title">Preguntas 1 - 60</h1>
+                        <span class="badge" id="total-count-badge">Cargando...</span>
+                    </div>
+                    <div class="header-actions">
+                        <button id="toggle-theme" class="theme-btn" title="Cambiar Tema">
+                            <i class="fa-solid fa-sun"></i>
+                        </button>
+                    </div>
+                </header>
+
+                <div class="toolbar">
+                    <div class="search-box">
+                        <i class="fa-solid fa-search"></i>
+                        <input type="text" id="jump-to-input" placeholder="Escribe la pregunta o un número (Ej: neurociencia o 1833)" autocomplete="off">
+                        <button id="jump-btn">Buscar / Ir</button>
+                    </div>
+                    <button id="play-all-btn" class="play-all-btn">
+                        <i class="fa-solid fa-play"></i> Reproducir Todo
                     </button>
                 </div>
-            </header>
-
-            <div class="toolbar">
-                <div class="search-box">
-                    <i class="fa-solid fa-search"></i>
-                    <input type="number" id="jump-to-input" placeholder="Ir a # (Ej: 1500)">
-                    <button id="jump-btn">Ir</button>
-                </div>
-                <button id="play-all-btn" class="play-all-btn">
-                    <i class="fa-solid fa-play"></i> Reproducir Todo
-                </button>
             </div>
 
             <div class="flashcards-container" id="flashcards-container">

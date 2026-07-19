@@ -1,3 +1,21 @@
+
+// --- CONFIGURACIÓN DE VELOCIDAD ---
+window.currentVoiceSpeed = parseFloat(localStorage.getItem('voiceSpeed')) || 1.0;
+window.updateVoiceSpeed = function() {
+    const select = document.getElementById('voiceSpeedSelect');
+    if(select) {
+        window.currentVoiceSpeed = parseFloat(select.value);
+        localStorage.setItem('voiceSpeed', select.value);
+    }
+};
+
+// Cargar velocidad guardada al inicio
+document.addEventListener('DOMContentLoaded', () => {
+    const select = document.getElementById('voiceSpeedSelect');
+    if(select && localStorage.getItem('voiceSpeed')) {
+        select.value = localStorage.getItem('voiceSpeed');
+    }
+});
 // State variables
 let currentBlock = 0;
 const QUESTIONS_PER_BLOCK = 60;
@@ -123,11 +141,74 @@ function setupEventListeners() {
         });
     }
 
+    const jumpInput = document.getElementById('jump-to-input');
+    const jumpBtn = document.getElementById('jump-btn');
+
+    // Create suggestions container
+    const searchSuggestions = document.createElement('ul');
+    searchSuggestions.className = 'search-suggestions';
+    jumpInput.parentNode.appendChild(searchSuggestions);
+
+    // Live search input listener
+    jumpInput.addEventListener('input', (e) => {
+        const val = e.target.value.trim().toLowerCase();
+        searchSuggestions.innerHTML = '';
+        
+        // Only search if 3 or more characters and not just a number
+        if (val.length < 3 || !isNaN(val)) {
+            searchSuggestions.classList.remove('active');
+            return;
+        }
+        
+        let count = 0;
+        const maxSuggestions = 15;
+        
+        for (let i = 0; i < window_data.length; i++) {
+            if (count >= maxSuggestions) break;
+            const item = window_data[i];
+            const qNum = item.id || (i + 1);
+            
+            if (item.q.toLowerCase().includes(val) || item.a.toLowerCase().includes(val)) {
+                const li = document.createElement('li');
+                let text = item.q;
+                if (text.length > 70) text = text.substring(0, 70) + '...';
+                
+                li.innerHTML = `<strong>#${qNum}</strong> ${text}`;
+                li.addEventListener('click', () => {
+                    jumpInput.value = qNum.toString();
+                    searchSuggestions.classList.remove('active');
+                    jumpBtn.click(); // Trigger the jump
+                });
+                searchSuggestions.appendChild(li);
+                count++;
+            }
+        }
+        
+        if (count > 0) {
+            searchSuggestions.classList.add('active');
+        } else {
+            const li = document.createElement('li');
+            li.textContent = "No se encontraron coincidencias.";
+            li.style.cursor = "default";
+            searchSuggestions.appendChild(li);
+            searchSuggestions.classList.add('active');
+        }
+    });
+
+    // Hide suggestions when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!jumpInput.contains(e.target) && !searchSuggestions.contains(e.target)) {
+            searchSuggestions.classList.remove('active');
+        }
+    });
+
     // Jump to specific question
     jumpBtn.addEventListener('click', () => {
-        const val = parseInt(jumpInput.value);
-        if (!isNaN(val) && val >= 1 && val <= window_data.length) {
-            const targetBlock = Math.floor((val - 1) / QUESTIONS_PER_BLOCK);
+        const val = jumpInput.value.trim();
+        const numVal = parseInt(val);
+        
+        if (!isNaN(numVal) && numVal >= 1 && numVal <= window_data.length && numVal.toString() === val) {
+            const targetBlock = Math.floor((numVal - 1) / QUESTIONS_PER_BLOCK);
             renderBlock(targetBlock);
             
             if (window.innerWidth <= 900) {
@@ -136,7 +217,7 @@ function setupEventListeners() {
             
             // Highlight the exact question after a short delay
             setTimeout(() => {
-                const card = document.getElementById(`q-${val}`);
+                const card = document.getElementById(`q-${numVal}`);
                 if (card) {
                     card.scrollIntoView({ behavior: 'smooth', block: 'center' });
                     card.style.boxShadow = '0 0 20px var(--accent-primary)';
@@ -145,6 +226,28 @@ function setupEventListeners() {
                     }, 2000);
                 }
             }, 100);
+        } else if (val.length > 2) {
+            // Search text
+            const searchLower = val.toLowerCase();
+            const results = [];
+            window_data.forEach((item, index) => {
+                if (item.q.toLowerCase().includes(searchLower) || item.a.toLowerCase().includes(searchLower)) {
+                    results.push({ item: item, qNum: index + 1 });
+                }
+            });
+            
+            currentBlock = -1;
+            const buttons = blocksMenu.querySelectorAll('.menu-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            
+            currentBlockTitle.textContent = `Resultados de: "${val}"`;
+            totalCountBadge.textContent = `${results.length} encontradas`;
+            
+            renderQuestions(results);
+            
+            if (window.innerWidth <= 900) {
+                sidebar.classList.remove('open');
+            }
         }
     });
 
@@ -280,8 +383,8 @@ function renderQuestions(questionsToRender) {
         if (!cleanQ.endsWith('?')) cleanQ += '?';
 
         // Escapar comillas dobles y simples para evitar errores JS inline
-        const safeQ = cleanQ.replace(/"/g, '&quot;').replace(/'/g, "\'");
-        const safeA = item.a.replace(/"/g, '&quot;').replace(/'/g, "\'");
+        const safeQ = cleanQ.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+        const safeA = item.a.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
         const btnClass = isLearned ? 'mark-learned-btn active' : 'mark-learned-btn';
         const btnText = isLearned ? '<i class="fa-solid fa-check"></i> Ya me la sé' : '<i class="fa-solid fa-star"></i> Marcar Estudiada';
@@ -290,7 +393,7 @@ function renderQuestions(questionsToRender) {
             <div class="learned-badge"><i class="fa-solid fa-check"></i></div>
             <div class="flashcard-header">
                 <span class="question-number">Pregunta ${qNum}</span>
-                <button class="speech-btn" title="Escuchar en voz alta" onclick="toggleAudio(this, ${qNum}, '${safeQ}', '${safeA}')">
+                <button class="speech-btn" title="Escuchar en voz alta" onclick="toggleAudio(this, ${qNum})">
                     <i class="fa-solid fa-volume-high"></i>
                 </button>
             </div>
@@ -327,7 +430,30 @@ window.revealAnswer = function(btn) {
 window.toggleLearned = toggleLearned;
 
 // Text-to-Speech Functionality
-window.toggleAudio = function(btn, qNum, qText, aText) {
+
+function cleanForTTS(text) {
+    if (!text) return "";
+    let clean = text.replace(/Art\./gi, "Artículo");
+    clean = clean.replace(/R\.M\./gi, "Resolución Ministerial");
+    clean = clean.replace(/D\.S\./gi, "Decreto Supremo");
+    clean = clean.replace(/N°/gi, "Número");
+    clean = clean.replace(/inc\./gi, "inciso");
+    clean = clean.replace(/etc\./gi, "etcétera.");
+    // Añadir pausas sutiles (comas) antes de conjunciones si son oraciones largas
+    // El navegador ya respeta los signos de interrogación y exclamación
+        // Borrar emojis y caracteres raros que rompen el motor de voz en Android
+    clean = clean.replace(/[^\w\s.,;:!?¿¡áéíóúÁÉÍÓÚñÑüÜ-]/g, " ");
+    return clean;
+}
+
+window.toggleAudio = function(btn, qNum) {
+    // Buscar la pregunta en window_data (qNum es 1-based, así que el índice es qNum - 1)
+    const qObj = window_data[qNum - 1];
+    let qText = qObj.q;
+    if (!qText.startsWith('¿')) qText = '¿' + qText;
+    if (!qText.endsWith('?')) qText += '?';
+    const aText = qObj.a;
+
     if (isPlaying && currentPlayingBtn === btn) {
         stopAudio();
         playAllActive = false;
@@ -357,7 +483,7 @@ window.toggleAudio = function(btn, qNum, qText, aText) {
         revealAnswer(revealBtn);
     }
 
-    const textToRead = `Pregunta ${qNum}. ${qText}... ... Respuesta. ${aText}`;
+    const textToRead = `Pregunta ${qNum}... ${cleanForTTS(qText)}... ... Respuesta... ${cleanForTTS(aText)}`;
     
     currentUtterance = new SpeechSynthesisUtterance(textToRead);
     currentUtterance.lang = 'es-ES';
